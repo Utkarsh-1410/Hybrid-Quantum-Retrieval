@@ -1,0 +1,2070 @@
+Query,Title,Abstract,Relevant
+quantum machine learning,Extreme Learning Machine for land cover classification,"  This paper explores the potential of extreme learning machine based
+supervised classification algorithm for land cover classification. In
+comparison to a backpropagation neural network, which requires setting of
+several user-defined parameters and may produce local minima, extreme learning
+machine require setting of one parameter and produce a unique solution. ETM+
+multispectral data set (England) was used to judge the suitability of extreme
+learning machine for remote sensing classifications. A back propagation neural
+network was used to compare its performance in term of classification accuracy
+and computational cost. Results suggest that the extreme learning machine
+perform equally well to back propagation neural network in term of
+classification accuracy with this data set. The computational cost using
+extreme learning machine is very small in comparison to back propagation neural
+network.
+",False
+machine learning,TRUST-TECH based Methods for Optimization and Learning,"  Many problems that arise in machine learning domain deal with nonlinearity and quite often demand users to obtain global optimal solutions rather than local optimal ones. Optimization problems are inherent in machine learning algorithms and hence many methods in machine learning were inherited from the optimization literature. Popularly known as the initialization problem, the ideal set of parameters required will significantly depend on the given initialization values. The recently developed TRUST-TECH (TRansformation Under STability-reTaining Equilibria CHaracterization) methodology systematically explores the subspace of the parameters to obtain a complete set of local optimal solutions. In this thesis work, we propose TRUST-TECH based methods for solving several optimization and machine learning problems. Two stages namely, the local stage and the neighborhood-search stage, are repeated alternatively in the solution space to achieve improvements in the quality of the solutions. Our methods were tested on both synthetic and real datasets and the advantages of using this novel framework are clearly manifested. This framework not only reduces the sensitivity to initialization, but also allows the flexibility for the practitioners to use various global and local methods that work well for a particular problem of interest. Other hierarchical stochastic algorithms like evolutionary algorithms and smoothing algorithms are also studied and frameworks for combining these methods with TRUST-TECH have been proposed and evaluated on several test systems.",False
+machine learning,An Adaptive Strategy for the Classification of G-Protein Coupled Receptors,"  One of the major problems in computational biology is the inability of
+existing classification models to incorporate expanding and new domain
+knowledge. This problem of static classification models is addressed in this
+paper by the introduction of incremental learning for problems in
+bioinformatics. Many machine learning tools have been applied to this problem
+using static machine learning structures such as neural networks or support
+vector machines that are unable to accommodate new information into their
+existing models. We utilize the fuzzy ARTMAP as an alternate machine learning
+system that has the ability of incrementally learning new data as it becomes
+available. The fuzzy ARTMAP is found to be comparable to many of the widespread
+machine learning systems. The use of an evolutionary strategy in the selection
+and combination of individual classifiers into an ensemble system, coupled with
+the incremental learning ability of the fuzzy ARTMAP is proven to be suitable
+as a pattern classifier. The algorithm presented is tested using data from the
+G-Coupled Protein Receptors Database and shows good accuracy of 83%. The system
+presented is also generally applicable, and can be used in problems in genomics
+and proteomics.
+",False
+machine learning,Prediction with expert advice for the Brier game,"  We show that the Brier game of prediction is mixable and find the optimal
+learning rate and substitution function for it. The resulting prediction
+algorithm is applied to predict results of football and tennis matches. The
+theoretical performance guarantee turns out to be rather tight on these data
+sets, especially in the case of the more extensive tennis data.
+",False
+machine learning,Decision Support with Belief Functions Theory for Seabed Characterization,"  The seabed characterization from sonar images is a very hard task because of
+the produced data and the unknown environment, even for an human expert. In
+this work we propose an original approach in order to combine binary
+classifiers arising from different kinds of strategies such as one-versus-one
+or one-versus-rest, usually used in the SVM-classification. The decision
+functions coming from these binary classifiers are interpreted in terms of
+belief functions in order to combine these functions with one of the numerous
+operators of the belief functions theory. Moreover, this interpretation of the
+decision function allows us to propose a process of decisions by taking into
+account the rejected observations too far removed from the learning data, and
+the imprecise decisions given in unions of classes. This new approach is
+illustrated and evaluated with a SVM in order to classify the different kinds
+of sediment on image sonar.
+",False
+deep learning,Bootstrapping Deep Lexical Resources: Resources for Courses,"  We propose a range of deep lexical acquisition methods which make use of
+morphological, syntactic and ontological language resources to model word
+similarity and bootstrap from a seed lexicon. The different methods are
+deployed in learning lexical items for a precision grammar, and shown to each
+have strengths and weaknesses over different word classes. A particular focus
+of this paper is the relative accessibility of different language resource
+types, and predicted ``bang for the buck'' associated with each in deep lexical
+acquisition applications.
+",False
+deep learning,The VO-Neural project: recent developments and some applications,"  VO-Neural is the natural evolution of the Astroneural project which was
+started in 1994 with the aim to implement a suite of neural tools for data
+mining in astronomical massive data sets. At a difference with its ancestor,
+which was implemented under Matlab, VO-Neural is written in C++, object
+oriented, and it is specifically tailored to work in distributed computing
+architectures. We discuss the current status of implementation of VO-Neural,
+present an application to the classification of Active Galactic Nuclei, and
+outline the ongoing work to improve the functionalities of the package.
+",False
+deep learning,Phoneme recognition in TIMIT with BLSTM-CTC,"  We compare the performance of a recurrent neural network with the best
+results published so far on phoneme recognition in the TIMIT database. These
+published results have been obtained with a combination of classifiers.
+However, in this paper we apply a single recurrent neural network to the same
+task. Our recurrent neural network attains an error rate of 24.6%. This result
+is not significantly different from that obtained by the other best methods,
+but they rely on a combination of classifiers for achieving comparable
+performance.
+",False
+graph neural networks,"Computer Model of a ""Sense of Humour"". II. Realization in Neural Networks","  The computer realization of a ""sense of humour"" requires the creation of an
+algorithm for solving the ""linguistic problem"", i.e. the problem of recognizing
+a continuous sequence of polysemantic images. Such algorithm may be realized in
+the Hopfield model of a neural network after its proper modification.
+",False
+deep learning,Multi-Dimensional Recurrent Neural Networks,"  Recurrent neural networks (RNNs) have proved effective at one dimensional
+sequence learning tasks, such as speech and online handwriting recognition.
+Some of the properties that make RNNs suitable for such tasks, for example
+robustness to input warping, and the ability to access contextual information,
+are also desirable in multidimensional domains. However, there has so far been
+no direct way of applying RNNs to data with more than one spatio-temporal
+dimension. This paper introduces multi-dimensional recurrent neural networks
+(MDRNNs), thereby extending the potential applicability of RNNs to vision,
+video processing, medical imaging and many other areas, while avoiding the
+scaling problems that have plagued other multi-dimensional models. Experimental
+results are provided for two image segmentation tasks.
+",False
+artificial intelligence,Universal Intelligence: A Definition of Machine Intelligence,"  A fundamental problem in artificial intelligence is that nobody really knows
+what intelligence is. The problem is especially acute when we need to consider
+artificial systems which are significantly different to humans. In this paper
+we approach this problem in the following way: We take a number of well known
+informal definitions of human intelligence that have been given by experts, and
+extract their essential features. These are then mathematically formalised to
+produce a general measure of intelligence for arbitrary machines. We believe
+that this equation formally captures the concept of machine intelligence in the
+broadest reasonable sense. We then show how this formal definition is related
+to the theory of universal optimal learning agents. Finally, we survey the many
+other tests and definitions of intelligence that have been proposed for
+machines.
+",False
+artificial intelligence,Tests of Machine Intelligence,"  Although the definition and measurement of intelligence is clearly of
+fundamental importance to the field of artificial intelligence, no general
+survey of definitions and tests of machine intelligence exists. Indeed few
+researchers are even aware of alternatives to the Turing test and its many
+derivatives. In this paper we fill this gap by providing a short survey of the
+many tests of machine intelligence that have been proposed.
+",False
+artificial intelligence,The Role of Artificial Intelligence Technologies in Crisis Response,"  Crisis response poses many of the most difficult information technology in
+crisis management. It requires information and communication-intensive efforts,
+utilized for reducing uncertainty, calculating and comparing costs and
+benefits, and managing resources in a fashion beyond those regularly available
+to handle routine problems. In this paper, we explore the benefits of
+artificial intelligence technologies in crisis response. This paper discusses
+the role of artificial intelligence technologies; namely, robotics, ontology
+and semantic web, and multi-agent systems in crisis response.
+",False
+artificial intelligence,2006: Celebrating 75 years of AI - History and Outlook: the Next 25 Years,"  When Kurt Goedel layed the foundations of theoretical computer science in
+1931, he also introduced essential concepts of the theory of Artificial
+Intelligence (AI). Although much of subsequent AI research has focused on
+heuristics, which still play a major role in many practical AI applications, in
+the new millennium AI theory has finally become a full-fledged formal science,
+with important optimality results for embodied agents living in unknown
+environments, obtained through a combination of theory a la Goedel and
+probability theory. Here we look back at important milestones of AI history,
+mention essential recent results, and speculate about what we may expect from
+the next 25 years, emphasizing the significance of the ongoing dramatic
+hardware speedups, and discussing Goedel-inspired, self-referential,
+self-improving universal problem solvers.
+",False
+quantum algorithms,The Road to Quantum Artificial Intelligence,"  This paper overviews the basic principles and recent advances in the emerging
+field of Quantum Computation (QC), highlighting its potential application to
+Artificial Intelligence (AI). The paper provides a very brief introduction to
+basic QC issues like quantum registers, quantum gates and quantum algorithms
+and then it presents references, ideas and research guidelines on how QC can be
+used to deal with some basic AI problems, such as search and pattern matching,
+as soon as quantum computers become widely available.
+",False
+object detection,View Based Methods can achieve Bayes-Optimal 3D Recognition,"  This paper proves that visual object recognition systems using only 2D
+Euclidean similarity measurements to compare object views against previously
+seen views can achieve the same recognition performance as observers having
+access to all coordinate information and able of using arbitrary 3D models
+internally. Furthermore, it demonstrates that such systems do not require more
+training views than Bayes-optimal 3D model-based systems. For building computer
+vision systems, these results imply that using view-based or appearance-based
+techniques with carefully constructed combination of evidence mechanisms may
+not be at a disadvantage relative to 3D model-based systems. For computational
+approaches to human vision, they show that it is impossible to distinguish
+view-based and 3D model-based techniques for 3D object recognition solely by
+comparing the performance achievable by human and 3D model-based systems.}
+",False
+computer vision,"I'm sorry to say, but your understanding of image processing fundamentals is absolutely wrong","  The ongoing discussion whether modern vision systems have to be viewed as
+visually-enabled cognitive systems or cognitively-enabled vision systems is
+groundless, because perceptual and cognitive faculties of vision are separate
+components of human (and consequently, artificial) information processing
+system modeling.
+",False
+computer vision,Image Processing in Optical Guidance for Autonomous Landing of Lunar Probe,"  Because of the communication delay between earth and moon, the GNC technology
+of lunar probe is becoming more important than ever. Current navigation
+technology is not able to provide precise motion estimation for probe landing
+control system Computer vision offers a new approach to solve this problem. In
+this paper, author introduces an image process algorithm of computer vision
+navigation for autonomous landing of lunar probe. The purpose of the algorithm
+is to detect and track feature points which are factors of navigation. Firstly,
+fixation areas are detected as sub-images and matched. Secondly, feature points
+are extracted from sub-images and tracked. Computer simulation demonstrates the
+result of algorithm takes less computation and fulfils requests of navigation
+algorithm.
+",False
+computer vision,On Ullman's theorem in computer vision,"  Both in the plane and in space, we invert the nonlinear Ullman transformation
+for 3 points and 3 orthographic cameras. While Ullman's theorem assures a
+unique reconstruction modulo a reflection for 3 cameras and 4 points, we find a
+locally unique reconstruction for 3 cameras and 3 points. Explicit
+reconstruction formulas allow to decide whether picture data of three cameras
+seeing three points can be realized as a point-camera configuration.
+",False
+computer vision,Acquisition Accuracy Evaluation in Visual Inspection Systems - a Practical Approach,"  This paper draws a proposal of a set of parameters and methods for accuracy
+evaluation of visual inspection systems. The case of a monochrome board is
+treated, but practically all conclusions and methods may be extended for colour
+acquisition. Basically, the proposed parameters are grouped in five sets as
+follows:Internal noise;Video ADC cuantisation parameters;Analogue processing
+section parameters;Dominant frequencies;Synchronisation (lock-in) accuracy. On
+basis of this set of parameters was developed a software environment, in
+conjunction with a test signal generator that allows the ""test"" images. The
+paper also presents conclusions of evaluation for two types of video
+acquisition boards
+",False
+semantic search,A Robust Linguistic Platform for Efficient and Domain specific Web Content Analysis,"  Web semantic access in specific domains calls for specialized search engines
+with enhanced semantic querying and indexing capacities, which pertain both to
+information retrieval (IR) and to information extraction (IE). A rich
+linguistic analysis is required either to identify the relevant semantic units
+to index and weight them according to linguistic specific statistical
+distribution, or as the basis of an information extraction process. Recent
+developments make Natural Language Processing (NLP) techniques reliable enough
+to process large collections of documents and to enrich them with semantic
+annotations. This paper focuses on the design and the development of a text
+processing platform, Ogmios, which has been developed in the ALVIS project. The
+Ogmios platform exploits existing NLP modules and resources, which may be tuned
+to specific domains and produces linguistically annotated documents. We show
+how the three constraints of genericity, domain semantic awareness and
+performance can be handled all together.
+",False
+natural language processing,In memoriam Maurice Gross,"  Maurice Gross (1934-2001) was both a great linguist and a pioneer in natural
+language processing. This article is written in homage to his memory
+",False
+natural language processing,Framework and Resources for Natural Language Parser Evaluation,"  Because of the wide variety of contemporary practices used in the automatic
+syntactic parsing of natural languages, it has become necessary to analyze and
+evaluate the strengths and weaknesses of different approaches. This research is
+all the more necessary because there are currently no genre- and
+domain-independent parsers that are able to analyze unrestricted text with 100%
+preciseness (I use this term to refer to the correctness of analyses assigned
+by a parser). All these factors create a need for methods and resources that
+can be used to evaluate and compare parsing systems. This research describes:
+(1) A theoretical analysis of current achievements in parsing and parser
+evaluation. (2) A framework (called FEPa) that can be used to carry out
+practical parser evaluations and comparisons. (3) A set of new evaluation
+resources: FiEval is a Finnish treebank under construction, and MGTS and RobSet
+are parser evaluation resources in English. (4) The results of experiments in
+which the developed evaluation framework and the two resources for English were
+used for evaluating a set of selected parsers.
+",False
+natural language processing,Valence extraction using EM selection and co-occurrence matrices,"  This paper discusses two new procedures for extracting verb valences from raw
+texts, with an application to the Polish language. The first novel technique,
+the EM selection algorithm, performs unsupervised disambiguation of valence
+frame forests, obtained by applying a non-probabilistic deep grammar parser and
+some post-processing to the text. The second new idea concerns filtering of
+incorrect frames detected in the parsed text and is motivated by an observation
+that verbs which take similar arguments tend to have similar frames. This
+phenomenon is described in terms of newly introduced co-occurrence matrices.
+Using co-occurrence matrices, we split filtering into two steps. The list of
+valid arguments is first determined for each verb, whereas the pattern
+according to which the arguments are combined into frames is computed in the
+following stage. Our best extracted dictionary reaches an $F$-score of 45%,
+compared to an $F$-score of 39% for the standard frame-based BHT filtering.
+",False
+natural language processing,Evaluation of a Grammar of French Determiners,"  Existing syntactic grammars of natural languages, even with a far from
+complete coverage, are complex objects. Assessments of the quality of parts of
+such grammars are useful for the validation of their construction. We evaluated
+the quality of a grammar of French determiners that takes the form of a
+recursive transition network. The result of the application of this local
+grammar gives deeper syntactic information than chunking or information
+available in treebanks. We performed the evaluation by comparison with a corpus
+independently annotated with information on determiners. We obtained 86%
+precision and 92% recall on text not tagged for parts of speech.
+",False
+transformer models,A Novel Piezoelectric Microtransformer for Autonmous Sensors Applications,"  This work relates to a novel piezoelectric transformer to be used in an
+autonomous sensor unit, possibly in conjunction with a RF-MEMS retro-modulator.
+",False
+transformer models,Quadrature formulas for the Laplace and Mellin transforms,"  A discrete Laplace transform and its inversion formula are obtained by using a quadrature of the continuous Fourier transform which is given in terms of Hermite polynomials and its zeros. This approach yields a convergent discrete formula for the two-sided Laplace transform if the function to be transformed falls off rapidly to zero and satisfy certain conditions of integrability, achieving convergence also for singular functions. The inversion formula becomes a quadrature formula for the Bromwich integral. This procedure also yields a quadrature formula for the Mellin transform and its corresponding inversion formula that can be generalized straightforwardly for functions of several variables.",False
+transformer models,Computational aspects and applications of a new transform for solving the complex exponentials approximation problem,"  Many real life problems can be reduced to the solution of a complex exponentials approximation problem which is usually ill posed. Recently a new transform for solving this problem, formulated as a specific moments problem in the plane, has been proposed in a theoretical framework. In this work some computational issues are addressed to make this new tool useful in practice. An algorithm is developed and used to solve a Nuclear Magnetic Resonance spectrometry problem, two time series interpolation and extrapolation problems and a shape from moments problem.",False
+transformer models,Morphing Ensemble Kalman Filters,"  A new type of ensemble filter is proposed, which combines an ensemble Kalman
+filter (EnKF) with the ideas of morphing and registration from image
+processing. This results in filters suitable for nonlinear problems whose
+solutions exhibit moving coherent features, such as thin interfaces in wildfire
+modeling. The ensemble members are represented as the composition of one common
+state with a spatial transformation, called registration mapping, plus a
+residual. A fully automatic registration method is used that requires only
+gridded data, so the features in the model state do not need to be identified
+by the user. The morphing EnKF operates on a transformed state consisting of
+the registration mapping and the residual. Essentially, the morphing EnKF uses
+intermediate states obtained by morphing instead of linear combinations of the
+states.
+",False
+transformer models,Belief Propagation and Loop Series on Planar Graphs,"  We discuss a generic model of Bayesian inference with binary variables
+defined on edges of a planar graph. The Loop Calculus approach of [1, 2] is
+used to evaluate the resulting series expansion for the partition function. We
+show that, for planar graphs, truncating the series at single-connected loops
+reduces, via a map reminiscent of the Fisher transformation [3], to evaluating
+the partition function of the dimer matching model on an auxiliary planar
+graph. Thus, the truncated series can be easily re-summed, using the Pfaffian
+formula of Kasteleyn [4]. This allows to identify a big class of
+computationally tractable planar models reducible to a dimer model via the
+Belief Propagation (gauge) transformation. The Pfaffian representation can also
+be extended to the full Loop Series, in which case the expansion becomes a sum
+of Pfaffian contributions, each associated with dimer matchings on an extension
+to a subgraph of the original graph. Algorithmic consequences of the Pfaffian
+representation, as well as relations to quantum and non-planar models, are
+discussed.
+",False
+large language models,Methods to integrate a language model with semantic information for a word prediction component,"  Most current word prediction systems make use of n-gram language models (LM)
+to estimate the probability of the following word in a phrase. In the past
+years there have been many attempts to enrich such language models with further
+syntactic or semantic information. We want to explore the predictive powers of
+Latent Semantic Analysis (LSA), a method that has been shown to provide
+reliable information on long-distance semantic dependencies between words in a
+context. We present and evaluate here several methods that integrate LSA-based
+information with a standard language model: a semantic cache, partial
+reranking, and different forms of interpolation. We found that all methods show
+significant improvements, compared to the 4-gram baseline, and most of them to
+a simple cache model as well.
+",False
+large language models,Demographic growth and the distribution of language sizes,"  It is argued that the present log-normal distribution of language sizes is,
+to a large extent, a consequence of demographic dynamics within the population
+of speakers of each language. A two-parameter stochastic multiplicative process
+is proposed as a model for the population dynamics of individual languages, and
+applied over a period spanning the last ten centuries. The model disregards
+language birth and death. A straightforward fitting of the two parameters,
+which statistically characterize the population growth rate, predicts a
+distribution of language sizes in excellent agreement with empirical data.
+Numerical simulations, and the study of the size distribution within language
+families, validate the assumptions at the basis of the model.
+",False
+large language models,The emerging field of language dynamics,"  A simple review by a linguist, citing many articles by physicists:
+Quantitative methods, agent-based computer simulations, language dynamics,
+language typology, historical linguistics
+",False
+large language models,Hubs in Languages: Scale Free Networks of Synonyms,"  Natural languages are described in this paper in terms of networks of
+synonyms: a word is identified with a node, and synonyms are connected by
+undirected links. Our statistical analysis of the network of synonyms in Polish
+language showed it is scale-free; similar to what is known for English. The
+statistical properties of the networks are also similar. Thus, the statistical
+aspects of the networks are good candidates for culture independent elements of
+human language. We hypothesize that optimization for robustness and efficiency
+is responsible for this universality. Despite the statistical similarity, there
+is no one-to-one mapping between networks of these two languages. Although many
+hubs in Polish are translated into similarly highly connected hubs in English,
+there are also hubs specific to one of these languages only: a single word in
+one language is equivalent to many different and disconnected words in the
+other, in accordance with the Whorf hypothesis about language relativity.
+Identifying language-specific hubs is vitally important for automatic
+translation, and for understanding contextual, culturally related messages that
+are frequently missed or twisted in a naive, literary translation.
+",False
+large language models,Towards a stable definition of Kolmogorov-Chaitin complexity,"  Although information content is invariant up to an additive constant, the
+range of possible additive constants applicable to programming languages is so
+large that in practice it plays a major role in the actual evaluation of K(s),
+the Kolmogorov-Chaitin complexity of a string s. Some attempts have been made
+to arrive at a framework stable enough for a concrete definition of K,
+independent of any constant under a programming language, by appealing to the
+""naturalness"" of the language in question. The aim of this paper is to present
+an approach to overcome the problem by looking at a set of models of
+computation converging in output probability distribution such that that
+""naturalness"" can be inferred, thereby providing a framework for a stable
+definition of K under the set of convergent models of computation.
+",False
+graph neural networks,Image Authentication Based on Neural Networks,"  Neural network has been attracting more and more researchers since the past
+decades. The properties, such as parameter sensitivity, random similarity,
+learning ability, etc., make it suitable for information protection, such as
+data encryption, data authentication, intrusion detection, etc. In this paper,
+by investigating neural networks' properties, the low-cost authentication
+method based on neural networks is proposed and used to authenticate images or
+videos. The authentication method can detect whether the images or videos are
+modified maliciously. Firstly, this chapter introduces neural networks'
+properties, such as parameter sensitivity, random similarity, diffusion
+property, confusion property, one-way property, etc. Secondly, the chapter
+gives an introduction to neural network based protection methods. Thirdly, an
+image or video authentication scheme based on neural networks is presented, and
+its performances, including security, robustness and efficiency, are analyzed.
+Finally, conclusions are drawn, and some open issues in this field are
+presented.
+",False
+graph neural networks,Machine and Component Residual Life Estimation through the Application of Neural Networks,"  This paper concerns the use of neural networks for predicting the residual
+life of machines and components. In addition, the advantage of using
+condition-monitoring data to enhance the predictive capability of these neural
+networks was also investigated. A number of neural network variations were
+trained and tested with the data of two different reliability-related datasets.
+The first dataset represents the renewal case where the failed unit is repaired
+and restored to a good-as-new condition. Data was collected in the laboratory
+by subjecting a series of similar test pieces to fatigue loading with a
+hydraulic actuator. The average prediction error of the various neural networks
+being compared varied from 431 to 841 seconds on this dataset, where test
+pieces had a characteristic life of 8,971 seconds. The second dataset was
+collected from a group of pumps used to circulate a water and magnetite
+solution within a plant. The data therefore originated from a repaired system
+affected by reliability degradation. When optimized, the multi-layer perceptron
+neural networks trained with the Levenberg-Marquardt algorithm and the general
+regression neural network produced a sum-of-squares error within 11.1% of each
+other. The potential for using neural networks for residual life prediction and
+the advantage of incorporating condition-based data into the model were proven
+for both examples.
+",False
+graph neural networks,Lossless Representation of Graphs using Distributions,"  We consider complete graphs with edge weights and/or node weights taking
+values in some set. In the first part of this paper, we show that a large
+number of graphs are completely determined, up to isomorphism, by the
+distribution of their sub-triangles. In the second part, we propose graph
+representations in terms of one-dimensional distributions (e.g., distribution
+of the node weights, sum of adjacent weights, etc.). For the case when the
+weights of the graph are real-valued vectors, we show that all graphs, except
+for a set of measure zero, are uniquely determined, up to isomorphism, from
+these distributions. The motivating application for this paper is the problem
+of browsing through large sets of graphs.
+",False
+graph neural networks,Option Pricing Using Bayesian Neural Networks,"  Options have provided a field of much study because of the complexity
+involved in pricing them. The Black-Scholes equations were developed to price
+options but they are only valid for European styled options. There is added
+complexity when trying to price American styled options and this is why the use
+of neural networks has been proposed. Neural Networks are able to predict
+outcomes based on past data. The inputs to the networks here are stock
+volatility, strike price and time to maturity with the output of the network
+being the call option price. There are two techniques for Bayesian neural
+networks used. One is Automatic Relevance Determination (for Gaussian
+Approximation) and one is a Hybrid Monte Carlo method, both used with
+Multi-Layer Perceptrons.
+",False
+federated learning,Reinforcement Learning by Value Gradients,"  The concept of the value-gradient is introduced and developed in the context
+of reinforcement learning. It is shown that by learning the value-gradients
+exploration or stochastic behaviour is no longer needed to find locally optimal
+trajectories. This is the main motivation for using value-gradients, and it is
+argued that learning value-gradients is the actual objective of any
+value-function learning algorithm for control problems. It is also argued that
+learning value-gradients is significantly more efficient than learning just the
+values, and this argument is supported in experiments by efficiency gains of
+several orders of magnitude, in several problem domains. Once value-gradients
+are introduced into learning, several analyses become possible. For example, a
+surprising equivalence between a value-gradient learning algorithm and a
+policy-gradient learning algorithm is proven, and this provides a robust
+convergence proof for control problems using a value function with a general
+function approximator.
+",False
+reinforcement learning,Rollout Sampling Approximate Policy Iteration,"  Several researchers have recently investigated the connection between
+reinforcement learning and classification. We are motivated by proposals of
+approximate policy iteration schemes without value functions which focus on
+policy representation using classifiers and address policy learning as a
+supervised learning problem. This paper proposes variants of an improved policy
+iteration scheme which addresses the core sampling problem in evaluating a
+policy through simulation as a multi-armed bandit machine. The resulting
+algorithm offers comparable performance to the previous algorithm achieved,
+however, with significantly less computational effort. An order of magnitude
+improvement is demonstrated experimentally in two standard reinforcement
+learning domains: inverted pendulum and mountain-car.
+",False
+reinforcement learning,Statistical-mechanics approach to a reinforcement learning model with memory,"  We introduce a two-player model of reinforcement learning with memory. Past
+actions of an iterated game are stored in a memory and used to determine
+player's next action. To examine the behaviour of the model some approximate
+methods are used and confronted against numerical simulations and exact master
+equation. When the length of memory of players increases to infinity the model
+undergoes an absorbing-state phase transition. Performance of examined
+strategies is checked in the prisoner' dilemma game. It turns out that it is
+advantageous to have a large memory in symmetric games, but it is better to
+have a short memory in asymmetric ones.
+",False
+reinforcement learning,Universal Reinforcement Learning,"  We consider an agent interacting with an unmodeled environment. At each time,
+the agent makes an observation, takes an action, and incurs a cost. Its actions
+can influence future observations and costs. The goal is to minimize the
+long-term average cost. We propose a novel algorithm, known as the active LZ
+algorithm, for optimal control based on ideas from the Lempel-Ziv scheme for
+universal data compression and prediction. We establish that, under the active
+LZ algorithm, if there exists an integer $K$ such that the future is
+conditionally independent of the past given a window of $K$ consecutive actions
+and observations, then the average cost converges to the optimum. Experimental
+results involving the game of Rock-Paper-Scissors illustrate merits of the
+algorithm.
+",False
+reinforcement learning,Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa,"  Game theory has many limitations implicit in its application. By utilizing
+multiagent modeling, it is possible to solve a number of problems that are
+unsolvable using traditional game theory. In this paper reinforcement learning
+is applied to neural networks to create intelligent agents
+",False
+federated learning,Enabling Adaptive Grid Scheduling and Resource Management,"  Wider adoption of the Grid concept has led to an increasing amount of
+federated computational, storage and visualisation resources being available to
+scientists and researchers. Distributed and heterogeneous nature of these
+resources renders most of the legacy cluster monitoring and management
+approaches inappropriate, and poses new challenges in workflow scheduling on
+such systems. Effective resource utilisation monitoring and highly granular yet
+adaptive measurements are prerequisites for a more efficient Grid scheduler. We
+present a suite of measurement applications able to monitor per-process
+resource utilisation, and a customisable tool for emulating observed
+utilisation models. We also outline our future work on a predictive and
+probabilistic Grid scheduler. The research is undertaken as part of UK
+e-Science EPSRC sponsored project SO-GRM (Self-Organising Grid Resource
+Management) in cooperation with BT.
+",False
+federated learning,Dimensionally Distributed Learning: Models and Algorithm,"  This paper introduces a framework for regression with dimensionally
+distributed data with a fusion center. A cooperative learning algorithm, the
+iterative conditional expectation algorithm (ICEA), is designed within this
+framework. The algorithm can effectively discover linear combinations of
+individual estimators trained by each agent without transferring and storing
+large amount of data amongst the agents and the fusion center. The convergence
+of ICEA is explored. Specifically, for a two agent system, each complete round
+of ICEA is guaranteed to be a non-expansive map on the function space of each
+agent. The advantages and limitations of ICEA are also discussed for data sets
+with various distributions and various hidden rules. Moreover, several
+techniques are also designed to leverage the algorithm to effectively learn
+more complex hidden rules that are not linearly decomposable.
+",False
+federated learning,Developing a Collaborative and Autonomous Training and Learning Environment for Hybrid Wireless Networks,"  With larger memory capacities and the ability to link into wireless networks,
+more and more students uses palmtop and handheld computers for learning
+activities. However, existing software for Web-based learning is not
+well-suited for such mobile devices, both due to constrained user interfaces as
+well as communication effort required. A new generation of applications for the
+learning domain that is explicitly designed to work on these kinds of small
+mobile devices has to be developed. For this purpose, we introduce CARLA, a
+cooperative learning system that is designed to act in hybrid wireless
+networks. As a cooperative environment, CARLA aims at disseminating teaching
+material, notes, and even components of itself through both fixed and mobile
+networks to interested nodes. Due to the mobility of nodes, CARLA deals with
+upcoming problems such as network partitions and synchronization of teaching
+material, resource dependencies, and time constraints.
+",False
+few shot learning,Learning Low-Density Separators,"  We define a novel, basic, unsupervised learning problem - learning the lowest
+density homogeneous hyperplane separator of an unknown probability
+distribution. This task is relevant to several problems in machine learning,
+such as semi-supervised learning and clustering stability. We investigate the
+question of existence of a universally consistent algorithm for this problem.
+We propose two natural learning paradigms and prove that, on input unlabeled
+random samples generated by any member of a rich family of distributions, they
+are guaranteed to converge to the optimal separator for that distribution. We
+complement this result by showing that no learning algorithm for our task can
+achieve uniform learning rates (that are independent of the data generating
+distribution).
+",False
+transfer learning,Oblivious Transfer based on Key Exchange,"  Key-exchange protocols have been overlooked as a possible means for
+implementing oblivious transfer (OT). In this paper we present a protocol for
+mutual exchange of secrets, 1-out-of-2 OT and coin flipping similar to
+Diffie-Hellman protocol using the idea of obliviously exchanging encryption
+keys. Since, Diffie-Hellman scheme is widely used, our protocol may provide a
+useful alternative to the conventional methods for implementation of oblivious
+transfer and a useful primitive in building larger cryptographic schemes.
+",False
+transfer learning,Composable Security in the Bounded-Quantum-Storage Model,"  We present a simplified framework for proving sequential composability in the
+quantum setting. In particular, we give a new, simulation-based, definition for
+security in the bounded-quantum-storage model, and show that this definition
+allows for sequential composition of protocols. Damgard et al. (FOCS '05,
+CRYPTO '07) showed how to securely implement bit commitment and oblivious
+transfer in the bounded-quantum-storage model, where the adversary is only
+allowed to store a limited number of qubits. However, their security
+definitions did only apply to the standalone setting, and it was not clear if
+their protocols could be composed. Indeed, we first give a simple attack that
+shows that these protocols are not composable without a small refinement of the
+model. Finally, we prove the security of their randomized oblivious transfer
+protocol in our refined model. Secure implementations of oblivious transfer and
+bit commitment then follow easily by a (classical) reduction to randomized
+oblivious transfer.
+",False
+transfer learning,Neural networks in 3D medical scan visualization,"  For medical volume visualization, one of the most important tasks is to
+reveal clinically relevant details from the 3D scan (CT, MRI ...), e.g. the
+coronary arteries, without obscuring them with less significant parts. These
+volume datasets contain different materials which are difficult to extract and
+visualize with 1D transfer functions based solely on the attenuation
+coefficient. Multi-dimensional transfer functions allow a much more precise
+classification of data which makes it easier to separate different surfaces
+from each other. Unfortunately, setting up multi-dimensional transfer functions
+can become a fairly complex task, generally accomplished by trial and error.
+This paper explains neural networks, and then presents an efficient way to
+speed up visualization process by semi-automatic transfer function generation.
+We describe how to use neural networks to detect distinctive features shown in
+the 2D histogram of the volume data and how to use this information for data
+classification.
+",False
+transfer learning,Interface groups and financial transfer architectures,"  Analytic execution architectures have been proposed by the same authors as a
+means to conceptualize the cooperation between heterogeneous collectives of
+components such as programs, threads, states and services. Interface groups
+have been proposed as a means to formalize interface information concerning
+analytic execution architectures. These concepts are adapted to organization
+architectures with a focus on financial transfers. Interface groups (and
+monoids) now provide a technique to combine interface elements into interfaces
+with the flexibility to distinguish between directions of flow dependent on
+entity naming.
+  The main principle exploiting interface groups is that when composing a
+closed system of a collection of interacting components, the sum of their
+interfaces must vanish in the interface group modulo reflection. This certainly
+matters for financial transfer interfaces.
+  As an example of this, we specify an interface group and within it some
+specific interfaces concerning the financial transfer architecture for a part
+of our local academic organization.
+  Financial transfer interface groups arise as a special case of more general
+service architecture interfaces.
+",False
+few shot learning,Sparse Online Learning via Truncated Gradient,"  We propose a general method called truncated gradient to induce sparsity in
+the weights of online learning algorithms with convex loss functions. This
+method has several essential properties: The degree of sparsity is continuous
+-- a parameter controls the rate of sparsification from no sparsification to
+total sparsification. The approach is theoretically motivated, and an instance
+of it can be regarded as an online counterpart of the popular
+$L_1$-regularization method in the batch setting. We prove that small rates of
+sparsification result in only small additional regret with respect to typical
+online learning guarantees. The approach works well empirically. We apply the
+approach to several datasets and find that for datasets with large numbers of
+features, substantial sparsity is discoverable.
+",False
+few shot learning,Statistical Learning of Arbitrary Computable Classifiers,"  Statistical learning theory chiefly studies restricted hypothesis classes,
+particularly those with finite Vapnik-Chervonenkis (VC) dimension. The
+fundamental quantity of interest is the sample complexity: the number of
+samples required to learn to a specified level of accuracy. Here we consider
+learning over the set of all computable labeling functions. Since the
+VC-dimension is infinite and a priori (uniform) bounds on the number of samples
+are impossible, we let the learning algorithm decide when it has seen
+sufficient samples to have learned. We first show that learning in this setting
+is indeed possible, and develop a learning algorithm. We then show, however,
+that bounding sample complexity independently of the distribution is
+impossible. Notably, this impossibility is entirely due to the requirement that
+the learning algorithm be computable, and not due to the statistical nature of
+the problem.
+",False
+object detection,Learning View Generalization Functions,"  Learning object models from views in 3D visual object recognition is usually
+formulated either as a function approximation problem of a function describing
+the view-manifold of an object, or as that of learning a class-conditional
+density. This paper describes an alternative framework for learning in visual
+object recognition, that of learning the view-generalization function. Using
+the view-generalization function, an observer can perform Bayes-optimal 3D
+object recognition given one or more 2D training views directly, without the
+need for a separate model acquisition step. The paper shows that view
+generalization functions can be computationally practical by restating two
+widely-used methods, the eigenspace and linear combination of views approaches,
+in a view generalization framework. The paper relates the approach to recent
+methods for object recognition based on non-uniform blurring. The paper
+presents results both on simulated 3D ``paperclip'' objects and real-world
+images from the COIL-100 database showing that useful view-generalization
+functions can be realistically be learned from a comparatively small number of
+training examples.
+",False
+image classification,Human expert fusion for image classification,"  In image classification, merging the opinion of several human experts is very
+important for different tasks such as the evaluation or the training. Indeed,
+the ground truth is rarely known before the scene imaging. We propose here
+different models in order to fuse the informations given by two or more
+experts. The considered unit for the classification, a small tile of the image,
+can contain one or more kind of the considered classes given by the experts. A
+second problem that we have to take into account, is the amount of certainty of
+the expert has for each pixel of the tile. In order to solve these problems we
+define five models in the context of the Dempster-Shafer Theory and in the
+context of the Dezert-Smarandache Theory and we study the possible decisions
+with these models.
+",False
+self supervised learning,A Unified Semi-Supervised Dimensionality Reduction Framework for Manifold Learning,"  We present a general framework of semi-supervised dimensionality reduction
+for manifold learning which naturally generalizes existing supervised and
+unsupervised learning frameworks which apply the spectral decomposition.
+Algorithms derived under our framework are able to employ both labeled and
+unlabeled examples and are able to handle complex problems where data form
+separate clusters of manifolds. Our framework offers simple views, explains
+relationships among existing frameworks and provides further extensions which
+can improve existing algorithms. Furthermore, a new semi-supervised
+kernelization framework called ``KPCA trick'' is proposed to handle non-linear
+problems.
+",False
+self supervised learning,Learning Probabilistic Models of Word Sense Disambiguation,"  This dissertation presents several new methods of supervised and unsupervised
+learning of word sense disambiguation models. The supervised methods focus on
+performing model searches through a space of probabilistic models, and the
+unsupervised methods rely on the use of Gibbs Sampling and the Expectation
+Maximization (EM) algorithm. In both the supervised and unsupervised case, the
+Naive Bayesian model is found to perform well. An explanation for this success
+is presented in terms of learning rates and bias-variance decompositions.
+",False
+self supervised learning,Supervised Feature Selection via Dependence Estimation,"  We introduce a framework for filtering features that employs the
+Hilbert-Schmidt Independence Criterion (HSIC) as a measure of dependence
+between the features and the labels. The key idea is that good features should
+maximise such dependence. Feature selection for various supervised learning
+problems (including classification and regression) is unified under this
+framework, and the solutions can be approximated using a backward-elimination
+algorithm. We demonstrate the usefulness of our method on both artificial and
+real world datasets.
+",False
+self supervised learning,On Kernelization of Supervised Mahalanobis Distance Learners,"  This paper focuses on the problem of kernelizing an existing supervised
+Mahalanobis distance learner. The following features are included in the paper.
+Firstly, three popular learners, namely, ""neighborhood component analysis"",
+""large margin nearest neighbors"" and ""discriminant neighborhood embedding"",
+which do not have kernel versions are kernelized in order to improve their
+classification performances. Secondly, an alternative kernelization framework
+called ""KPCA trick"" is presented. Implementing a learner in the new framework
+gains several advantages over the standard framework, e.g. no mathematical
+formulas and no reprogramming are required for a kernel implementation, the
+framework avoids troublesome problems such as singularity, etc. Thirdly, while
+the truths of representer theorems are just assumptions in previous papers
+related to ours, here, representer theorems are formally proven. The proofs
+validate both the kernel trick and the KPCA trick in the context of Mahalanobis
+distance learning. Fourthly, unlike previous works which always apply brute
+force methods to select a kernel, we investigate two approaches which can be
+efficiently adopted to construct an appropriate kernel for a given dataset.
+Finally, numerical results on various real-world datasets are presented.
+",False
+self supervised learning,Multi-Instance Learning by Treating Instances As Non-I.I.D. Samples,"  Multi-instance learning attempts to learn from a training set consisting of
+labeled bags each containing many unlabeled instances. Previous studies
+typically treat the instances in the bags as independently and identically
+distributed. However, the instances in a bag are rarely independent, and
+therefore a better performance can be expected if the instances are treated in
+an non-i.i.d. way that exploits the relations among instances. In this paper,
+we propose a simple yet effective multi-instance learning method, which regards
+each bag as a graph and uses a specific kernel to distinguish the graphs by
+considering the features of the nodes as well as the features of the edges that
+convey some relations among instances. The effectiveness of the proposed method
+is validated by experiments.
+",False
+knowledge graphs,Evaluation and exploitation of knowledge robustness in knowledge-based systems,"  Industrial knowledge is complex, difficult to formalize and very dynamic in
+reason of the continuous development of techniques and technologies. The
+verification of the validity of the knowledge base at the time of its
+elaboration is not sufficient. To be exploitable, this knowledge must then be
+able to be used under conditions (slightly) different from the conditions in
+which it was formalized. So, it becomes vital for the company to permanently
+evaluate the quality of the industrial knowledge implemented in the system.
+This evaluation is founded on the concept of robustness of the knowledge
+formalized by conceptual graphs. The evaluation method is supported by a
+computerized tool.
+",False
+knowledge graphs,Graph Algorithms for Improving Type-Logical Proof Search,"  Proof nets are a graph theoretical representation of proofs in various
+fragments of type-logical grammar. In spite of this basis in graph theory,
+there has been relatively little attention to the use of graph theoretic
+algorithms for type-logical proof search. In this paper we will look at several
+ways in which standard graph theoretic algorithms can be used to restrict the
+search space. In particular, we will provide an O(n4) algorithm for selecting
+an optimal axiom link at any stage in the proof search as well as a O(kn3)
+algorithm for selecting the k best proof candidates.
+",False
+knowledge graphs,Knowledge bases over algebraic models. Some notes about informational equivalence,"  The recent advances in knowledge base research and the growing importance of
+effective knowledge management raised an important question of knowledge base
+equivalence verification. This problem has not been stated earlier, at least in
+a way that allows speaking about algorithms for verification of informational
+equivalence, because the informal definition of knowledge bases makes formal
+solution of this problem impossible. In this paper we provide an implementable
+formal algorithm for knowledge base equivalence verification based on the
+formal definition of knowledge base proposed by Plotkin B. and Plotkin T., and
+study some important properties of automorphic equivalence of models. We also
+describe the concept of equivalence and formulate the criterion for the
+equivalence of knowledge bases defined over finite models. Further we define
+multi-models and automorphic equivalence of models and multi-models, that is
+generalization of automorphic equivalence of algebras.
+",False
+knowledge graphs,Knowledge Technologies,"  Several technologies are emerging that provide new ways to capture, store,
+present and use knowledge. This book is the first to provide a comprehensive
+introduction to five of the most important of these technologies: Knowledge
+Engineering, Knowledge Based Engineering, Knowledge Webs, Ontologies and
+Semantic Webs. For each of these, answers are given to a number of key
+questions (What is it? How does it operate? How is a system developed? What can
+it be used for? What tools are available? What are the main issues?). The book
+is aimed at students, researchers and practitioners interested in Knowledge
+Management, Artificial Intelligence, Design Engineering and Web Technologies.
+  During the 1990s, Nick worked at the University of Nottingham on the
+application of AI techniques to knowledge management and on various knowledge
+acquisition projects to develop expert systems for military applications. In
+1999, he joined Epistemics where he worked on numerous knowledge projects and
+helped establish knowledge management programmes at large organisations in the
+engineering, technology and legal sectors. He is author of the book ""Knowledge
+Acquisition in Practice"", which describes a step-by-step procedure for
+acquiring and implementing expertise. He maintains strong links with leading
+research organisations working on knowledge technologies, such as
+knowledge-based engineering, ontologies and semantic technologies.
+",False
+knowledge graphs,Exposing Multi-Relational Networks to Single-Relational Network Analysis Algorithms,"  Many, if not most network analysis algorithms have been designed specifically
+for single-relational networks; that is, networks in which all edges are of the
+same type. For example, edges may either represent ""friendship,"" ""kinship,"" or
+""collaboration,"" but not all of them together. In contrast, a multi-relational
+network is a network with a heterogeneous set of edge labels which can
+represent relationships of various types in a single data structure. While
+multi-relational networks are more expressive in terms of the variety of
+relationships they can capture, there is a need for a general framework for
+transferring the many single-relational network analysis algorithms to the
+multi-relational domain. It is not sufficient to execute a single-relational
+network analysis algorithm on a multi-relational network by simply ignoring
+edge labels. This article presents an algebra for mapping multi-relational
+networks to single-relational networks, thereby exposing them to
+single-relational network analysis algorithms.
+",False
+recommendation systems,Recommendation model based on opinion diffusion,"  Information overload in the modern society calls for highly efficient
+recommendation algorithms. In this letter we present a novel diffusion based
+recommendation model, with users' ratings built into a transition matrix. To
+speed up computation we introduce a Green function method. The numerical tests
+on a benchmark database show that our prediction is superior to the standard
+recommendation methods.
+",False
+recommendation systems,Movie Recommendation Systems Using An Artificial Immune System,"  We apply the Artificial Immune System (AIS) technology to the Collaborative
+Filtering (CF) technology when we build the movie recommendation system. Two
+different affinity measure algorithms of AIS, Kendall tau and Weighted Kappa,
+are used to calculate the correlation coefficients for this movie
+recommendation system. From the testing we think that Weighted Kappa is more
+suitable than Kendall tau for movie problems.
+",False
+recommendation systems,When are recommender systems useful?,"  Recommender systems are crucial tools to overcome the information overload
+brought about by the Internet. Rigorous tests are needed to establish to what
+extent sophisticated methods can improve the quality of the predictions. Here
+we analyse a refined correlation-based collaborative filtering algorithm and
+compare it with a novel spectral method for recommending. We test them on two
+databases that bear different statistical properties (MovieLens and Jester)
+without filtering out the less active users and ordering the opinions in time,
+whenever possible. We find that, when the distribution of user-user
+correlations is narrow, simple averages work nearly as well as advanced
+methods. Recommender systems can, on the other hand, exploit a great deal of
+additional information in systems where external influence is negligible and
+peoples' tastes emerge entirely. These findings are validated by simulations
+with artificially generated data.
+",False
+recommendation systems,On Affinity Measures for Artificial Immune System Movie Recommenders,"  We combine Artificial Immune Systems 'AIS', technology with Collaborative
+Filtering 'CF' and use it to build a movie recommendation system. We already
+know that Artificial Immune Systems work well as movie recommenders from
+previous work by Cayzer and Aickelin 3, 4, 5. Here our aim is to investigate
+the effect of different affinity measure algorithms for the AIS. Two different
+affinity measures, Kendalls Tau and Weighted Kappa, are used to calculate the
+correlation coefficients for the movie recommender. We compare the results with
+those published previously and show that Weighted Kappa is more suitable than
+others for movie problems. We also show that AIS are generally robust movie
+recommenders and that, as long as a suitable affinity measure is chosen,
+results are good.
+",False
+recommendation systems,Solving the apparent diversity-accuracy dilemma of recommender systems,"  Recommender systems use data on past user preferences to predict possible
+future likes and interests. A key challenge is that while the most useful
+individual recommendations are to be found among diverse niche objects, the
+most reliably accurate results are obtained by methods that recommend objects
+based on user or object similarity. In this paper we introduce a new algorithm
+specifically to address the challenge of diversity and show how it can be used
+to resolve this apparent dilemma when combined in an elegant hybrid with an
+accuracy-focused algorithm. By tuning the hybrid appropriately we are able to
+obtain, without relying on any semantic or context-specific information,
+simultaneous gains in both accuracy and diversity of recommendations.
+",False
+information retrieval,On the fractal nature of mutual relevance sequences in the Internet news message flows,"  In the task of information retrieval the term relevance is taken to mean
+formal conformity of a document given by the retrieval system to user's
+information query. As a rule, the documents found by the retrieval system
+should be submitted to the user in a certain order. Therefore, a retrieval
+perceived as a selection of documents formally solving the user's query, should
+be supplemented with a certain procedure of processing a relevant set. It would
+be natural to introduce a quantitative measure of document conformity to query,
+i.e. the relevance measure. Since no single rule exists for the determination
+of the relevance measure, we shall consider two of them which are the simplest
+in our opinion. The proposed approach does not suppose any restrictions and can
+be applied to other relevance measures.
+",False
+retrieval augmented generation,Comparing and Combining Methods for Automatic Query Expansion,"  Query expansion is a well known method to improve the performance of
+information retrieval systems. In this work we have tested different approaches
+to extract the candidate query terms from the top ranked documents returned by
+the first-pass retrieval.
+  One of them is the cooccurrence approach, based on measures of cooccurrence
+of the candidate and the query terms in the retrieved documents. The other one,
+the probabilistic approach, is based on the probability distribution of terms
+in the collection and in the top ranked set.
+  We compare the retrieval improvement achieved by expanding the query with
+terms obtained with different methods belonging to both approaches. Besides, we
+have developed a na\""ive combination of both kinds of method, with which we
+have obtained results that improve those obtained with any of them separately.
+This result confirms that the information provided by each approach is of a
+different nature and, therefore, can be used in a combined manner.
+",False
+information retrieval,Contextual Information Retrieval based on Algorithmic Information Theory and Statistical Outlier Detection,"  The main contribution of this paper is to design an Information Retrieval
+(IR) technique based on Algorithmic Information Theory (using the Normalized
+Compression Distance- NCD), statistical techniques (outliers), and novel
+organization of data base structure. The paper shows how they can be integrated
+to retrieve information from generic databases using long (text-based) queries.
+Two important problems are analyzed in the paper. On the one hand, how to
+detect ""false positives"" when the distance among the documents is very low and
+there is actual similarity. On the other hand, we propose a way to structure a
+document database which similarities distance estimation depends on the length
+of the selected text. Finally, the experimental evaluations that have been
+carried out to study previous problems are shown.
+",False
+information retrieval,Interpr\'etation vague des contraintes structurelles pour la RI dans des corpus de documents XML - \'Evaluation d'une m\'ethode approch\'ee de RI structur\'ee,"  We propose specific data structures designed to the indexing and retrieval of
+information elements in heterogeneous XML data bases. The indexing scheme is
+well suited to the management of various contextual searches, expressed either
+at a structural level or at an information content level. The approximate
+search mechanisms are based on a modified Levenshtein editing distance and
+information fusion heuristics. The implementation described highlights the
+mixing of structured information presented as field/value instances and free
+text elements. The retrieval performances of the proposed approach are
+evaluated within the INEX 2005 evaluation campaign. The evaluation results rank
+the proposed approach among the best evaluated XML IR systems for the VVCAS
+task.
+",False
+retrieval augmented generation,Approximate textual retrieval,"  An approximate textual retrieval algorithm for searching sources with high
+levels of defects is presented. It considers splitting the words in a query
+into two overlapping segments and subsequently building composite regular
+expressions from interlacing subsets of the segments. This procedure reduces
+the probability of missed occurrences due to source defects, yet diminishes the
+retrieval of irrelevant, non-contextual occurrences.
+",False
+search engines,The Anatomy of Mitos Web Search Engine,"  Engineering a Web search engine offering effective and efficient information
+retrieval is a challenging task. This document presents our experiences from
+designing and developing a Web search engine offering a wide spectrum of
+functionalities and we report some interesting experimental results. A rather
+peculiar design choice of the engine is that its index is based on a DBMS,
+while some of the distinctive functionalities that are offered include advanced
+Greek language stemming, real time result clustering, and advanced link
+analysis techniques (also for spam page detection).
+",False
+search engines,An exploratory study of Google Scholar,"  The paper discusses and analyzes the scientific search service Google Scholar
+(GS). The focus is on an exploratory study which investigates the coverage of
+scientific serials in GS. The study shows deficiencies in the coverage and
+up-to-dateness of the GS index. Furthermore, the study points up which Web
+servers are the most important data providers for this search service and which
+information sources are highly represented. We can show that there is a
+relatively large gap in Google Scholars coverage of German literature as well
+as weaknesses in the accessibility of Open Access content.
+  Keywords: Search engines, Digital libraries, Worldwide Web, Serials,
+Electronic journals
+",False
+search engines,Logic Engines as Interactors,"  We introduce a new programming language construct, Interactors, supporting
+the agent-oriented view that programming is a dialog between simple,
+self-contained, autonomous building blocks.
+  We define Interactors as an abstraction of answer generation and refinement
+in Logic Engines resulting in expressive language extension and metaprogramming
+patterns, including emulation of Prolog's dynamic database.
+  A mapping between backtracking based answer generation in the callee and
+""forward"" recursion in the caller enables interaction between different
+branches of the callee's search process and provides simplified design patterns
+for algorithms involving combinatorial generation and infinite answer streams.
+  Interactors extend language constructs like Ruby, Python and C#'s multiple
+coroutining block returns through yield statements and they can emulate the
+action of monadic constructs and catamorphisms in functional languages.
+  Keywords: generalized iterators, logic engines, agent oriented programming
+language constructs, interoperation with stateful objects, metaprogramming
+",False
+search engines,Spam: It's Not Just for Inboxes and Search Engines! Making Hirsch h-index Robust to Scientospam,"  What is the 'level of excellence' of a scientist and the real impact of
+his/her work upon the scientific thinking and practising? How can we design a
+fair, an unbiased metric -- and most importantly -- a metric robust to
+manipulation?
+",False
+search engines,Algorithmic Methods for Sponsored Search Advertising,"  Modern commercial Internet search engines display advertisements along side
+the search results in response to user queries. Such sponsored search relies on
+market mechanisms to elicit prices for these advertisements, making use of an
+auction among advertisers who bid in order to have their ads shown for specific
+keywords. We present an overview of the current systems for such auctions and
+also describe the underlying game-theoretic aspects. The game involves three
+parties--advertisers, the search engine, and search users--and we present
+example research directions that emphasize the role of each. The algorithms for
+bidding and pricing in these games use techniques from three mathematical
+areas: mechanism design, optimization, and statistical estimation. Finally, we
+present some challenges in sponsored search advertising.
+",False
+document ranking,"Respect My Authority! HITS Without Hyperlinks, Utilizing Cluster-Based Language Models","  We present an approach to improving the precision of an initial document
+ranking wherein we utilize cluster information within a graph-based framework.
+The main idea is to perform re-ranking based on centrality within bipartite
+graphs of documents (on one side) and clusters (on the other side), on the
+premise that these are mutually reinforcing entities. Links between entities
+are created via consideration of language models induced from them.
+  We find that our cluster-document graphs give rise to much better retrieval
+performance than previously proposed document-only graphs do. For example,
+authority-based re-ranking of documents via a HITS-style cluster-based approach
+outperforms a previously-proposed PageRank-inspired algorithm applied to
+solely-document graphs. Moreover, we also show that computing authority scores
+for clusters constitutes an effective method for identifying clusters
+containing a large percentage of relevant documents.
+",False
+document ranking,Direct Optimization of Ranking Measures,"  Web page ranking and collaborative filtering require the optimization of
+sophisticated performance measures. Current Support Vector approaches are
+unable to optimize them directly and focus on pairwise comparisons instead. We
+present a new approach which allows direct optimization of the relevant loss
+functions. This is achieved via structured estimation in Hilbert spaces. It is
+most related to Max-Margin-Markov networks optimization of multivariate
+performance measures. Key to our approach is that during training the ranking
+problem can be viewed as a linear assignment problem, which can be solved by
+the Hungarian Marriage algorithm. At test time, a sort operation is sufficient,
+as our algorithm assigns a relevance score to every (document, query) pair.
+Experiments show that the our algorithm is fast and that it works very well.
+",False
+document ranking,Entity Ranking in Wikipedia,"  The traditional entity extraction problem lies in the ability of extracting
+named entities from plain text using natural language processing techniques and
+intensive training from large document collections. Examples of named entities
+include organisations, people, locations, or dates. There are many research
+activities involving named entities; we are interested in entity ranking in the
+field of information retrieval. In this paper, we describe our approach to
+identifying and ranking entities from the INEX Wikipedia document collection.
+Wikipedia offers a number of interesting features for entity identification and
+ranking that we first introduce. We then describe the principles and the
+architecture of our entity ranking system, and introduce our methodology for
+evaluation. Our preliminary results show that the use of categories and the
+link structure of Wikipedia, together with entity examples, can significantly
+improve retrieval effectiveness.
+",False
+semantic search,Reducing semantic complexity in distributed Digital Libraries: treatment of term vagueness and document re-ranking,"  The purpose of the paper is to propose models to reduce the semantic
+complexity in heterogeneous DLs. The aim is to introduce value-added services
+(treatment of term vagueness and document re-ranking) that gain a certain
+quality in DLs if they are combined with heterogeneity components established
+in the project ""Competence Center Modeling and Treatment of Semantic
+Heterogeneity"". Empirical observations show that freely formulated user terms
+and terms from controlled vocabularies are often not the same or match just by
+coincidence. Therefore, a value-added service will be developed which rephrases
+the natural language searcher terms into suggestions from the controlled
+vocabulary, the Search Term Recommender (STR). Two methods, which are derived
+from scientometrics and network analysis, will be implemented with the
+objective to re-rank result sets by the following structural properties: the
+ranking of the results by core journals (so-called Bradfordizing) and ranking
+by centrality of authors in co-authorship networks.
+",False
+document ranking,Use of Wikipedia Categories in Entity Ranking,"  Wikipedia is a useful source of knowledge that has many applications in
+language processing and knowledge representation. The Wikipedia category graph
+can be compared with the class hierarchy in an ontology; it has some
+characteristics in common as well as some differences. In this paper, we
+present our approach for answering entity ranking queries from the Wikipedia.
+In particular, we explore how to make use of Wikipedia categories to improve
+entity ranking effectiveness. Our experiments show that using categories of
+example entities works significantly better than using loosely defined target
+categories.
+",False
+semantic search,Building a terminology network for search: the KoMoHe project,"  The paper reports about results on the GESIS-IZ project ""Competence Center
+Modeling and Treatment of Semantic Heterogeneity"" (KoMoHe). KoMoHe supervised a
+terminology mapping effort, in which 'cross-concordances' between major
+controlled vocabularies were organized, created and managed. In this paper we
+describe the establishment and implementation of cross-concordances for search
+in a digital library (DL).
+",False
+semantic search,Modeling Computations in a Semantic Network,"  Semantic network research has seen a resurgence from its early history in the
+cognitive sciences with the inception of the Semantic Web initiative. The
+Semantic Web effort has brought forth an array of technologies that support the
+encoding, storage, and querying of the semantic network data structure at the
+world stage. Currently, the popular conception of the Semantic Web is that of a
+data modeling medium where real and conceptual entities are related in
+semantically meaningful ways. However, new models have emerged that explicitly
+encode procedural information within the semantic network substrate. With these
+new technologies, the Semantic Web has evolved from a data modeling medium to a
+computational medium. This article provides a classification of existing
+computational modeling efforts and the requirements of supporting technologies
+that will aid in the further growth of this burgeoning domain.
+",False
+semantic search,Optimizing Queries in a Logic-based Information Integration System,"  The SINTAGMA information integration system is an infrastructure for
+accessing several different information sources together. Besides providing a
+uniform interface to the information sources (databases, web services, web
+sites, RDF resources, XML files), semantic integration is also needed. Semantic
+integration is carried out by providing a high-level model and the mappings to
+the models of the sources. When executing a query of the high level model, a
+query is transformed to a low-level query plan, which is a piece of Prolog code
+that answers the high-level query. This transformation is done in two phases.
+First, the Query Planner produces a plan as a logic formula expressing the
+low-level query. Next, the Query Optimizer transforms this formula to
+executable Prolog code and optimizes it according to structural and statistical
+information about the information sources.
+  This article discusses the main ideas of the optimization algorithm and its
+implementation.
+",False
+question answering,Practical Approach to Knowledge-based Question Answering with Natural Language Understanding and Advanced Reasoning,"  This research hypothesized that a practical approach in the form of a
+solution framework known as Natural Language Understanding and Reasoning for
+Intelligence (NaLURI), which combines full-discourse natural language
+understanding, powerful representation formalism capable of exploiting
+ontological information and reasoning approach with advanced features, will
+solve the following problems without compromising practicality factors: 1)
+restriction on the nature of question and response, and 2) limitation to scale
+across domains and to real-life natural language text.
+",False
+question answering,Interpolation in Valiant's theory,"  We investigate the following question: if a polynomial can be evaluated at
+rational points by a polynomial-time boolean algorithm, does it have a
+polynomial-size arithmetic circuit? We argue that this question is certainly
+difficult. Answering it negatively would indeed imply that the constant-free
+versions of the algebraic complexity classes VP and VNP defined by Valiant are
+different. Answering this question positively would imply a transfer theorem
+from boolean to algebraic complexity. Our proof method relies on Lagrange
+interpolation and on recent results connecting the (boolean) counting hierarchy
+to algebraic complexity classes. As a byproduct we obtain two additional
+results: (i) The constant-free, degree-unbounded version of Valiant's
+hypothesis that VP and VNP differ implies the degree-bounded version. This
+result was previously known to hold for fields of positive characteristic only.
+(ii) If exponential sums of easy to compute polynomials can be computed
+efficiently, then the same is true of exponential products. We point out an
+application of this result to the P=NP problem in the Blum-Shub-Smale model of
+computation over the field of complex numbers.
+",False
+question answering,A Theory for Valiant's Matchcircuits (Extended Abstract),"  The computational function of a matchgate is represented by its character
+matrix. In this article, we show that all nonsingular character matrices are
+closed under matrix inverse operation, so that for every $k$, the nonsingular
+character matrices of $k$-bit matchgates form a group, extending the recent
+work of Cai and Choudhary (2006) of the same result for the case of $k=2$, and
+that the single and the two-bit matchgates are universal for matchcircuits,
+answering a question of Valiant (2002).
+",False
+question answering,Does intelligence imply contradiction?,"  Contradiction is often seen as a defect of intelligent systems and a
+dangerous limitation on efficiency. In this paper we raise the question of
+whether, on the contrary, it could be considered a key tool in increasing
+intelligence in biological structures. A possible way of answering this
+question in a mathematical context is shown, formulating a proposition that
+suggests a link between intelligence and contradiction.
+  A concrete approach is presented in the well-defined setting of cellular
+automata. Here we define the models of ``observer'', ``entity'',
+``environment'', ``intelligence'' and ``contradiction''. These definitions,
+which roughly correspond to the common meaning of these words, allow us to
+deduce a simple but strong result about these concepts in an unbiased,
+mathematical manner. Evidence for a real-world counterpart to the demonstrated
+formal link between intelligence and contradiction is provided by three
+computational experiments.
+",False
+question answering,The Generation of Textual Entailment with NLML in an Intelligent Dialogue system for Language Learning CSIEC,"  This research report introduces the generation of textual entailment within
+the project CSIEC (Computer Simulation in Educational Communication), an
+interactive web-based human-computer dialogue system with natural language for
+English instruction. The generation of textual entailment (GTE) is critical to
+the further improvement of CSIEC project. Up to now we have found few
+literatures related with GTE. Simulating the process that a human being learns
+English as a foreign language we explore our naive approach to tackle the GTE
+problem and its algorithm within the framework of CSIEC, i.e. rule annotation
+in NLML, pattern recognition (matching), and entailment transformation. The
+time and space complexity of our algorithm is tested with some entailment
+examples. Further works include the rules annotation based on the English
+textbooks and a GUI interface for normal users to edit the entailment rules.
+",False
+retrieval augmented generation,Augmented Tree-based Routing Protocol for Scalable Ad Hoc Networks,"  In ad hoc networks scalability is a critical requirement if these
+technologies have to reach their full potential. Most of the proposed routing
+protocols do not operate efficiently with networks of more than a few hundred
+nodes. In this paper, we propose an augmented tree-based address space
+structure and a hierarchical multi-path routing protocol, referred to as
+Augmented Tree-based Routing (ATR), which utilizes such a structure in order to
+solve the scalability problem and to gain good resilience against node
+failure/mobility and link congestion/instability. Simulation results and
+performance comparisons with existing protocols substantiate the effectiveness
+of the ATR.
+",False
+retrieval augmented generation,"On Introspection, Metacognitive Control and Augmented Data Mining Live Cycles","  We discuss metacognitive modelling as an enhancement to cognitive modelling
+and computing. Metacognitive control mechanisms should enable AI systems to
+self-reflect, reason about their actions, and to adapt to new situations. In
+this respect, we propose implementation details of a knowledge taxonomy and an
+augmented data mining life cycle which supports a live integration of obtained
+models.
+",False
+retrieval augmented generation,CLAIRLIB Documentation v1.03,"  The Clair library is intended to simplify a number of generic tasks in
+Natural Language Processing (NLP), Information Retrieval (IR), and Network
+Analysis. Its architecture also allows for external software to be plugged in
+with very little effort. Functionality native to Clairlib includes
+Tokenization, Summarization, LexRank, Biased LexRank, Document Clustering,
+Document Indexing, PageRank, Biased PageRank, Web Graph Analysis, Network
+Generation, Power Law Distribution Analysis, Network Analysis (clustering
+coefficient, degree distribution plotting, average shortest path, diameter,
+triangles, shortest path matrices, connected components), Cosine Similarity,
+Random Walks on Graphs, Statistics (distributions, tests), Tf, Idf, Community
+Finding.
+",False
+quantum algorithms,Prospective Algorithms for Quantum Evolutionary Computation,"  This effort examines the intersection of the emerging field of quantum
+computing and the more established field of evolutionary computation. The goal
+is to understand what benefits quantum computing might offer to computational
+intelligence and how computational intelligence paradigms might be implemented
+as quantum programs to be run on a future quantum computer. We critically
+examine proposed algorithms and methods for implementing computational
+intelligence paradigms, primarily focused on heuristic optimization methods
+including and related to evolutionary computation, with particular regard for
+their potential for eventual implementation on quantum computing hardware.
+",False
+quantum computing,"A Survey of Quantum Programming Languages: History, Methods, and Tools","  Quantum computer programming is emerging as a new subject domain from
+multidisciplinary research in quantum computing, computer science, mathematics
+(especially quantum logic, lambda calculi, and linear logic), and engineering
+attempts to build the first non-trivial quantum computer. This paper briefly
+surveys the history, methods, and proposed tools for programming quantum
+computers circa late 2007. It is intended to provide an extensive but
+non-exhaustive look at work leading up to the current state-of-the-art in
+quantum computer programming. Further, it is an attempt to analyze the needed
+programming tools for quantum programmers, to use this analysis to predict the
+direction in which the field is moving, and to make recommendations for further
+development of quantum programming language tools.
+",False
+quantum algorithms,Grover search algorithm,"  A quantum algorithm is a set of instructions for a quantum computer, however,
+unlike algorithms in classical computer science their results cannot be
+guaranteed. A quantum system can undergo two types of operation, measurement
+and quantum state transformation, operations themselves must be unitary
+(reversible). Most quantum algorithms involve a series of quantum state
+transformations followed by a measurement. Currently very few quantum
+algorithms are known and no general design methodology exists for their
+construction.
+",False
+quantum computing,Checking Equivalence of Quantum Circuits and States,"  Quantum computing promises exponential speed-ups for important simulation and
+optimization problems. It also poses new CAD problems that are similar to, but
+more challenging, than the related problems in classical (non-quantum) CAD,
+such as determining if two states or circuits are functionally equivalent.
+While differences in classical states are easy to detect, quantum states, which
+are represented by complex-valued vectors, exhibit subtle differences leading
+to several notions of equivalence. This provides flexibility in optimizing
+quantum circuits, but leads to difficult new equivalence-checking issues for
+simulation and synthesis. We identify several different equivalence-checking
+problems and present algorithms for practical benchmarks, including quantum
+communication and search circuits, which are shown to be very fast and robust
+for hundreds of qubits.
+",False
+quantum algorithms,Quantum Algorithms for Learning and Testing Juntas,"  In this article we develop quantum algorithms for learning and testing
+juntas, i.e. Boolean functions which depend only on an unknown set of k out of
+n input variables. Our aim is to develop efficient algorithms:
+  - whose sample complexity has no dependence on n, the dimension of the domain
+the Boolean functions are defined over;
+  - with no access to any classical or quantum membership (""black-box"")
+queries. Instead, our algorithms use only classical examples generated
+uniformly at random and fixed quantum superpositions of such classical
+examples;
+  - which require only a few quantum examples but possibly many classical
+random examples (which are considered quite ""cheap"" relative to quantum
+examples).
+  Our quantum algorithms are based on a subroutine FS which enables sampling
+according to the Fourier spectrum of f; the FS subroutine was used in earlier
+work of Bshouty and Jackson on quantum learning. Our results are as follows:
+  - We give an algorithm for testing k-juntas to accuracy $\epsilon$ that uses
+$O(k/\epsilon)$ quantum examples. This improves on the number of examples used
+by the best known classical algorithm.
+  - We establish the following lower bound: any FS-based k-junta testing
+algorithm requires $\Omega(\sqrt{k})$ queries.
+  - We give an algorithm for learning $k$-juntas to accuracy $\epsilon$ that
+uses $O(\epsilon^{-1} k\log k)$ quantum examples and $O(2^k \log(1/\epsilon))$
+random examples. We show that this learning algorithms is close to optimal by
+giving a related lower bound.
+",False
+quantum algorithms,Quantum walk based search algorithms,"  In this survey paper we give an intuitive treatment of the discrete time
+quantization of classical Markov chains. Grover search and the quantum walk
+based search algorithms of Ambainis, Szegedy and Magniez et al. will be stated
+as quantum analogues of classical search procedures. We present a rather
+detailed description of a somewhat simplified version of the MNRS algorithm.
+Finally, in the query complexity model, we show how quantum walks can be
+applied to the following search problems: Element Distinctness, Matrix Product
+Verification, Restricted Range Associativity, Triangle, and Group
+Commutativity.
+",False
+blockchain,Distributed Double Spending Prevention,"  We study the problem of preventing double spending in electronic payment
+schemes in a distributed fashion. This problem occurs, for instance, when the
+spending of electronic coins needs to be controlled by a large collection of
+nodes (eg. in a peer-to-peer (P2P) system) instead of one central bank.
+Contrary to the commonly held belief that this is fundamentally impossible, we
+propose several solutions that do achieve a reasonable level of double spending
+prevention, and analyse their efficiency under varying assumptions.
+",False
+blockchain,On the Security of Liaw et al.'s Scheme,"  Recently, Liaw et al. proposed a remote user authentication scheme using
+smartcards. They claimed a number of features of their scheme, e.g. a
+dictionary of verification tables is not required to authenticate users; users
+can choose their password freely; mutual authentication is provided between the
+user and the remote system; the communication cost and the computational cost
+are very low; users can update their password after the registration phase; a
+session key agreed by the user and the remote system is generated in every
+session; and the nonce-based scheme which does not require a timestamp (to
+solve the serious time synchronization problem) etc.
+  In this paper We show that Liaw et al.'s scheme does not stand with various
+security requirements and is completely insecure.
+  Keywords: Authentication, Smartcards, Remote system, Attack.
+",False
+blockchain,Integrity-Enhancing Replica Coordination for Byzantine Fault Tolerant Systems,"  Strong replica consistency is often achieved by writing deterministic
+applications, or by using a variety of mechanisms to render replicas
+deterministic. There exists a large body of work on how to render replicas
+deterministic under the benign fault model. However, when replicas can be
+subject to malicious faults, most of the previous work is no longer effective.
+Furthermore, the determinism of the replicas is often considered harmful from
+the security perspective and for many applications, their integrity strongly
+depends on the randomness of some of their internal operations. This calls for
+new approaches towards achieving replica consistency while preserving the
+replica randomness. In this paper, we present two such approaches. One is based
+on Byzantine agreement and the other on threshold coin-tossing. Each approach
+has its strength and weaknesses. We compare the performance of the two
+approaches and outline their respective best use scenarios.
+",False
+blockchain,CANE: The Content Addressed Network Environment,"  The fragmented nature and asymmetry of local and remote file access and
+network access, combined with the current lack of robust authenticity and
+privacy, hamstrings the current internet. The collection of disjoint and often
+ad-hoc technologies currently in use are at least partially responsible for the
+magnitude and potency of the plagues besetting the information economy, of
+which spam and email borne virii are canonical examples. The proposed
+replacement for the internet, Internet Protocol Version 6 (IPv6), does little
+to tackle these underlying issues, instead concentrating on addressing the
+technical issues of a decade ago.
+  This paper introduces CANE, a Content Addressed Network Environment, and
+compares it against current internet and related technologies. Specifically,
+CANE presents a simple computing environment in which location is abstracted
+away in favour of identity, and trust is explicitly defined. Identity is
+cryptographically verified and yet remains pervasively open in nature. It is
+argued that this approach is capable of being generalised such that file
+storage and network access can be unified and subsequently combined with human
+interfaces to result in a Unified Theory of Access, which addresses many of the
+significant problems besetting the internet community of the early 21st
+century.
+",False
+blockchain,GRID Architecture through a Public Cluster,"  An architecture to enable some blocks consisting of several nodes in a public
+cluster connected to different grid collaborations is introduced. It is
+realized by inserting a web-service in addition to the standard Globus Toolkit.
+The new web-service performs two main tasks : authenticate the digital
+certificate contained in an incoming requests and forward it to the designated
+block. The appropriate block is mapped with the username of the block's owner
+contained in the digital certificate. It is argued that this algorithm opens an
+opportunity for any blocks in a public cluster to join various global grids.
+",False
+cyber security,Cyberspace security: How to develop a security strategy,"  Despite all visible dividers, the Internet is getting us closer and closer,
+but with a great price. Our security is the price. The international community
+is fully aware of the urgent need to secure the cyberspace as you see the
+multiplication of security standards and national schemes interpreting them
+beyond borders: ISO 15408, ISO 17799, and ISO 27001. Even though some
+countries, including the Security Big Six (SB6), are equipped with their
+security books and may feel relatively safe; this remains a wrong sense of
+security as long as they share their networks with entities of less security.
+The standards impose security best practices and system specifications for the
+development of information security management systems. Partners beyond borders
+have to be secure as this is only possible if all entities connected to the
+partnership remain secure. Unfortunately, there is no way to verify the
+continuous security of partners without periodic security auditing and
+certification, and members who do not comply should be barred from the
+partnership. This concept also applies to the cyber space or the electronic
+society. In order to clean our society from cyber crimes and cyber terrorism we
+need to impose strict security policies and enforce them in a cooperative
+manner. The paper discusses a country's effort in the development of a national
+security strategy given its security economic intelligence position, its
+security readiness, and its adverse exposure.
+",False
+cyber security,SANA - Security Analysis in Internet Traffic through Artificial Immune Systems,"  The Attacks done by Viruses, Worms, Hackers, etc. are a Network
+Security-Problem in many Organisations. Current Intrusion Detection Systems
+have significant Disadvantages, e.g. the need of plenty of Computational Power
+or the Local Installation. Therefore, we introduce a novel Framework for
+Network Security which is called SANA. SANA contains an artificial Immune
+System with artificial Cells which perform certain Tasks in order to to support
+existing systems to better secure the Network against Intrusions. The
+Advantages of SANA are that it is efficient, adaptive, autonomous, and
+massively-distributed. In this Article, we describe the Architecture of the
+artificial Immune System and the Functionality of the Components. We explain
+briefly the Implementation and discuss Results.
+",False
+cyber security,A Network Protection Framework through Artificial Immunity,"  Current network protection systems use a collection of intelligent components
+- e.g. classifiers or rule-based firewall systems to detect intrusions and
+anomalies and to secure a network against viruses, worms, or trojans. However,
+these network systems rely on individuality and support an architecture with
+less collaborative work of the protection components. They give less
+administration support for maintenance, but offer a large number of individual
+single points of failures - an ideal situation for network attacks to succeed.
+In this work, we discuss the required features, the performance, and the
+problems of a distributed protection system called {\it SANA}. It consists of a
+cooperative architecture, it is motivated by the human immune system, where the
+components correspond to artificial immune cells that are connected for their
+collaborative work. SANA promises a better protection against intruders than
+common known protection systems through an adaptive self-management while
+keeping the resources efficiently by an intelligent reduction of redundancies.
+We introduce a library of several novel and common used protection components
+and evaluate the performance of SANA by a proof-of-concept implementation.
+",False
+cyber security,Danger Theory: The Link between AIS and IDS?,"  We present ideas about creating a next generation Intrusion Detection System
+based on the latest immunological theories. The central challenge with computer
+security is determining the difference between normal and potentially harmful
+activity. For half a century, developers have protected their systems by coding
+rules that identify and block specific events. However, the nature of current
+and future threats in conjunction with ever larger IT systems urgently requires
+the development of automated and adaptive defensive tools. A promising solution
+is emerging in the form of Artificial Immune Systems. The Human Immune System
+can detect and defend against harmful and previously unseen invaders, so can we
+not build a similar Intrusion Detection System for our computers.
+",False
+cyber security,SANA - Network Protection through artificial Immunity,"  Current network protection systems use a collection of intelligent components
+- e.g. classifiers or rule-based firewall systems to detect intrusions and
+anomalies and to secure a network against viruses, worms, or trojans. However,
+these network systems rely on individuality and support an architecture with
+less collaborative work of the protection components. They give less
+administration support for maintenance, but offer a large number of individual
+single points of failures - an ideal situation for network attacks to succeed.
+In this work, we discuss the required features, the performance, and the
+problems of a distributed protection system called SANA. It consists of a
+cooperative architecture, it is motivated by the human immune system, where the
+components correspond to artificial immune cells that are connected for their
+collaborative work. SANA promises a better protection against intruders than
+common known protection systems through an adaptive self-management while
+keeping the resources efficiently by an intelligent reduction of redundant
+tasks. We introduce a library of several novel and common used protection
+components and evaluate the performance of SANA by a proof-of-concept
+implementation.
+",False
+network intrusion detection,Data Reduction in Intrusion Alert Correlation,"  Network intrusion detection sensors are usually built around low level models
+of network traffic. This means that their output is of a similarly low level
+and as a consequence, is difficult to analyze. Intrusion alert correlation is
+the task of automating some of this analysis by grouping related alerts
+together. Attack graphs provide an intuitive model for such analysis.
+Unfortunately alert flooding attacks can still cause a loss of service on
+sensors, and when performing attack graph correlation, there can be a large
+number of extraneous alerts included in the output graph. This obscures the
+fine structure of genuine attacks and makes them more difficult for human
+operators to discern. This paper explores modified correlation algorithms which
+attempt to minimize the impact of this attack.
+",False
+network intrusion detection,Intrusion Detection Using Cost-Sensitive Classification,"  Intrusion Detection is an invaluable part of computer networks defense. An
+important consideration is the fact that raising false alarms carries a
+significantly lower cost than not detecting at- tacks. For this reason, we
+examine how cost-sensitive classification methods can be used in Intrusion
+Detection systems. The performance of the approach is evaluated under different
+experimental conditions, cost matrices and different classification models, in
+terms of expected cost, as well as detection and false alarm rates. We find
+that even under unfavourable conditions, cost-sensitive classification can
+improve performance significantly, if only slightly.
+",False
+network intrusion detection,Towards an Effective Intrusion Response Engine Combined with Intrusion Detection in Ad Hoc Networks,"  In this paper, we present an effective intrusion response engine combined
+with intrusion detection in ad hoc networks. The intrusion response engine is
+composed of a secure communication module, a local and a global response
+module. Its function is based on an innovative tree-based key agreement
+protocol while the intrusion detection engine is based on a class of neural
+networks called eSOM. The proposed intrusion response model and the tree-based
+protocol, it is based on, are analyzed concerning key secrecy while the
+intrusion detection engine is evaluated for MANET under different traffic
+conditions and mobility patterns. The results show a high detection rate for
+packet dropping attacks.
+",False
+network intrusion detection,A Survey on Deep Packet Inspection for Intrusion Detection Systems,"  Deep packet inspection is widely recognized as a powerful way which is used
+for intrusion detection systems for inspecting, deterring and deflecting
+malicious attacks over the network. Fundamentally, almost intrusion detection
+systems have the ability to search through packets and identify contents that
+match with known attacks. In this paper, we survey the deep packet inspection
+implementations techniques, research challenges and algorithms. Finally, we
+provide a comparison between the different applied systems.
+",False
+network intrusion detection,Strategic Alert Throttling for Intrusion Detection Systems,"  Network intrusion detection systems are themselves becoming targets of
+attackers. Alert flood attacks may be used to conceal malicious activity by
+hiding it among a deluge of false alerts sent by the attacker. Although these
+types of attacks are very hard to stop completely, our aim is to present
+techniques that improve alert throughput and capacity to such an extent that
+the resources required to successfully mount the attack become prohibitive. The
+key idea presented is to combine a token bucket filter with a realtime
+correlation algorithm. The proposed algorithm throttles alert output from the
+IDS when an attack is detected. The attack graph used in the correlation
+algorithm is used to make sure that alerts crucial to forming strategies are
+not discarded by throttling.
+",False
+big data analytics,Compute and Storage Clouds Using Wide Area High Performance Networks,"  We describe a cloud based infrastructure that we have developed that is
+optimized for wide area, high performance networks and designed to support data
+mining applications. The infrastructure consists of a storage cloud called
+Sector and a compute cloud called Sphere. We describe two applications that we
+have built using the cloud and some experimental studies.
+",False
+big data analytics,Data Mining Using High Performance Data Clouds: Experimental Studies Using Sector and Sphere,"  We describe the design and implementation of a high performance cloud that we
+have used to archive, analyze and mine large distributed data sets. By a cloud,
+we mean an infrastructure that provides resources and/or services over the
+Internet. A storage cloud provides storage services, while a compute cloud
+provides compute services. We describe the design of the Sector storage cloud
+and how it provides the storage services required by the Sphere compute cloud.
+We also describe the programming paradigm supported by the Sphere compute
+cloud. Sector and Sphere are designed for analyzing large data sets using
+computer clusters connected with wide area high performance networks (for
+example, 10+ Gb/s). We describe a distributed data mining application that we
+have developed using Sector and Sphere. Finally, we describe some experimental
+studies comparing Sector/Sphere to Hadoop.
+",False
+cloud computing,Local search heuristics: Fitness Cloud versus Fitness Landscape,"  This paper introduces the concept of fitness cloud as an alternative way to
+visualize and analyze search spaces than given by the geographic notion of
+fitness landscape. It is argued that the fitness cloud concept overcomes
+several deficiencies of the landscape representation. Our analysis is based on
+the correlation between fitness of solutions and fitnesses of nearest solutions
+according to some neighboring. We focus on the behavior of local search
+heuristics, such as hill climber, on the well-known NK fitness landscape. In
+both cases the fitness vs. fitness correlation is shown to be related to the
+epistatic parameter K.
+",False
+cloud computing,Minimal positive stencils in meshfree finite difference methods for the Poisson equation,"  Meshfree finite difference methods for the Poisson equation approximate the Laplace operator on a point cloud. Desirable are positive stencils, i.e. all neighbor entries are of the same sign. Classical least squares approaches yield large stencils that are in general not positive. We present an approach that yields stencils of minimal size, which are positive. We provide conditions on the point cloud geometry, so that positive stencils always exist. The new discretization method is compared to least squares approaches in terms of accuracy and computational performance.",False
+cloud computing,Performance Analysis of Publish/Subscribe Systems,"  The Desktop Grid offers solutions to overcome several challenges and to
+answer increasingly needs of scientific computing. Its technology consists
+mainly in exploiting resources, geographically dispersed, to treat complex
+applications needing big power of calculation and/or important storage
+capacity. However, as resources number increases, the need for scalability,
+self-organisation, dynamic reconfigurations, decentralisation and performance
+becomes more and more essential. Since such properties are exhibited by P2P
+systems, the convergence of grid computing and P2P computing seems natural. In
+this context, this paper evaluates the scalability and performance of P2P tools
+for discovering and registering services. Three protocols are used for this
+purpose: Bonjour, Avahi and Free-Pastry. We have studied the behaviour of
+theses protocols related to two criteria: the elapsed time for registrations
+services and the needed time to discover new services. Our aim is to analyse
+these results in order to choose the best protocol we can use in order to
+create a decentralised middleware for desktop grid.
+",False
+edge computing,Computing Minimum Spanning Trees with Uncertainty,"  We consider the minimum spanning tree problem in a setting where information
+about the edge weights of the given graph is uncertain. Initially, for each
+edge $e$ of the graph only a set $A_e$, called an uncertainty area, that
+contains the actual edge weight $w_e$ is known. The algorithm can `update' $e$
+to obtain the edge weight $w_e \in A_e$. The task is to output the edge set of
+a minimum spanning tree after a minimum number of updates. An algorithm is
+$k$-update competitive if it makes at most $k$ times as many updates as the
+optimum. We present a 2-update competitive algorithm if all areas $A_e$ are
+open or trivial, which is the best possible among deterministic algorithms. The
+condition on the areas $A_e$ is to exclude degenerate inputs for which no
+constant update competitive algorithm can exist. Next, we consider a setting
+where the vertices of the graph correspond to points in Euclidean space and the
+weight of an edge is equal to the distance of its endpoints. The location of
+each point is initially given as an uncertainty area, and an update reveals the
+exact location of the point. We give a general relation between the edge
+uncertainty and the vertex uncertainty versions of a problem and use it to
+derive a 4-update competitive algorithm for the minimum spanning tree problem
+in the vertex uncertainty model. Again, we show that this is best possible
+among deterministic algorithms.
+",False
+edge computing,A distributed algorithm for computing and updating the process number of a forest,"  In this paper, we present a distributed algorithm to compute various
+parameters of a tree such as the process number, the edge search number or the
+node search number and so the pathwidth. This algorithm requires n steps, an
+overall computation time of O(n log(n)), and n messages of size log_3(n)+3. We
+then propose a distributed algorithm to update the process number (or the node
+search number, or the edge search number) of each component of a forest after
+adding or deleting an edge. This second algorithm requires O(D) steps, an
+overall computation time of O(D log(n)), and O(D) messages of size log_3(n)+3,
+where D is the diameter of the modified connected component. Finally, we show
+how to extend our algorithms to trees and forests of unknown size using
+messages of less than 2a+4+e bits, where a is the parameter to be determined
+and e=1 for updates algorithms.
+",False
+edge computing,A Symphony Conducted by Brunet,"  We introduce BruNet, a general P2P software framework which we use to produce
+the first implementation of Symphony, a 1-D Kleinberg small-world architecture.
+Our framework is designed to easily implement and measure different P2P
+protocols over different transport layers such as TCP or UDP. This paper
+discusses our implementation of the Symphony network, which allows each node to
+keep $k \le \log N$ shortcut connections and to route to any other node with a
+short average delay of $O(\frac{1}{k}\log^2 N)$. %This provides a continuous
+trade-off between node degree and routing latency. We present experimental
+results taken from several PlanetLab deployments of size up to 1060 nodes.
+These succes sful deployments represent some of the largest PlanetLab
+deployments of P2P overlays found in the literature, and show our
+implementation's robustness to massive node dynamics in a WAN environment.
+",False
+edge computing,Optimal Per-Edge Processing Times in the Semi-Streaming Model,"  We present semi-streaming algorithms for basic graph problems that have
+optimal per-edge processing times and therefore surpass all previous
+semi-streaming algorithms for these tasks. The semi-streaming model, which is
+appropriate when dealing with massive graphs, forbids random access to the
+input and restricts the memory to O(n*polylog n) bits.
+  Particularly, the formerly best per-edge processing times for finding the
+connected components and a bipartition are O(alpha(n)), for determining
+k-vertex and k-edge connectivity O(k^2n) and O(n*log n) respectively for any
+constant k and for computing a minimum spanning forest O(log n). All these time
+bounds we reduce to O(1).
+  Every presented algorithm determines a solution asymptotically as fast as the
+best corresponding algorithm up to date in the classical RAM model, which
+therefore cannot convert the advantage of unlimited memory and random access
+into superior computing times for these problems.
+",False
+internet of things,Translating a first-order modal language to relational algebra,"  This paper is about Kripke structures that are inside a relational database
+and queried with a modal language. At first the modal language that is used is
+introduced, followed by a definition of the database and relational algebra.
+Based on these definitions two things are presented: a mapping from components
+of the modal structure to a relational database schema and instance, and a
+translation from queries in the modal language to relational algebra queries.
+",False
+internet of things,Can the Internet cope with stress?,"  When will the Internet become aware of itself? In this note the problem is
+approached by asking an alternative question: Can the Internet cope with
+stress? By extrapolating the psychological difference between coping and
+defense mechanisms a distributed software experiment is outlined which could
+reject the hypothesis that the Internet is not a conscious entity.
+",False
+internet of things,Development of Architectures for Internet Telerobotics Systems,"  This paper presents our experience in developing and implementing Internet
+telerobotics system. Internet telerobotics system refers to a robot system
+controlled and monitored remotely through the Internet. A robot manipulator
+with five degrees of freedom, called Mentor, is employed. Client-server
+architecture is chosen as a platform for our Internet telerobotics system.
+Three generations of telerobotics systems have evolved in this research. The
+first generation was based on CGI and two tiered architecture, where a client
+presents a Graphical User Interface to the user, and utilizes the user's data
+entry and actions to perform requests to robot server running on a different
+machine. The second generation was developed using Java. We also employ Java 3D
+for creating and manipulating 3D geometry of manipulator links and for
+constructing the structures used in rendering that geometry, resulting in 3D
+robot movement simulation presented to the users(clients) through their web
+browser. Recent development in our Internet telerobotics includes object
+recognition through image captured by a camera, which poses challenging
+problem, given the undeterministic latency of the Internet. The third
+generation is centered around the use of CORBA for development platform of
+distributed internet telerobotics system, aimed at distributing task of
+telerobotics system.
+",False
+internet of things,"An integrated model of traffic, geography and economy in the Internet","  Modeling Internet growth is important both for understanding the current
+network and to predict and improve its future. To date, Internet models have
+typically attempted to explain a subset of the following characteristics:
+network structure, traffic flow, geography, and economy. In this paper we
+present a discrete, agent-based model, that integrates all of them. We show
+that the model generates networks with topologies, dynamics, and (more
+speculatively) spatial distributions that are similar to the Internet.
+",False
+wireless sensor networks,A Framework for Providing E-Services to the Rural Areas using Wireless Ad Hoc and Sensor Networks,"  In recent years, the proliferation of mobile computing devices has driven a
+revolutionary change in the computing world. The nature of ubiquitous devices
+makes wireless networks the easiest solution for their interconnection. This
+has led to the rapid growth of several wireless systems like wireless ad hoc
+networks, wireless sensor networks etc. In this paper we have proposed a
+framework for rural development by providing various e-services to the rural
+areas with the help of wireless ad hoc and sensor networks. We have discussed
+how timely and accurate information could be collected from the rural areas
+using wireless technologies. In addition to this, we have also mentioned the
+technical and operational challenges that could hinder the implementation of
+such a framework in the rural areas in the developing countries.
+",False
+wireless sensor networks,Smartening the Environment using Wireless Sensor Networks in a Developing Country,"  The miniaturization process of various sensing devices has become a reality
+by enormous research and advancements accomplished in Micro Electro-Mechanical
+Systems (MEMS) and Very Large Scale Integration (VLSI) lithography. Regardless
+of such extensive efforts in optimizing the hardware, algorithm, and protocols
+for networking, there still remains a lot of scope to explore how these
+innovations can all be tied together to design Wireless Sensor Networks (WSN)
+for smartening the surrounding environment for some practical purposes. In this
+paper we explore the prospects of wireless sensor networks and propose a design
+level framework for developing a smart environment using WSNs, which could be
+beneficial for a developing country like Bangladesh. In connection to this, we
+also discuss the major aspects of wireless sensor networks.
+",False
+wireless sensor networks,Security in Wireless Sensor Networks: Issues and Challenges,"  Wireless Sensor Network (WSN) is an emerging technology that shows great
+promise for various futuristic applications both for mass public and military.
+The sensing technology combined with processing power and wireless
+communication makes it lucrative for being exploited in abundance in future.
+The inclusion of wireless communication technology also incurs various types of
+security threats. The intent of this paper is to investigate the security
+related issues and challenges in wireless sensor networks. We identify the
+security threats, review proposed security mechanisms for wireless sensor
+networks. We also discuss the holistic view of security for ensuring layered
+and robust security in wireless sensor networks.
+",False
+wireless sensor networks,QoS Challenges and Opportunities in Wireless Sensor/Actuator Networks,"  A wireless sensor/actuator network (WSAN) is a group of sensors and actuators
+that are geographically distributed and interconnected by wireless networks.
+Sensors gather information about the state of physical world. Actuators react
+to this information by performing appropriate actions. WSANs thus enable cyber
+systems to monitor and manipulate the behavior of the physical world. WSANs are
+growing at a tremendous pace, just like the exploding evolution of Internet.
+Supporting quality of service (QoS) will be of critical importance for
+pervasive WSANs that serve as the network infrastructure of diverse
+applications. To spark new research and development interests in this field,
+this paper examines and discusses the requirements, critical challenges, and
+open research issues on QoS management in WSANs. A brief overview of recent
+progress is given.
+",False
+wireless sensor networks,Worst-Case Interactive Communication and Enhancing Sensor Network Lifetime,"  We are concerned with the problem of maximizing the worst-case lifetime of a
+data-gathering wireless sensor network consisting of a set of sensor nodes
+directly communicating with a base-station.We propose to solve this problem by
+modeling sensor node and base-station communication as the interactive
+communication between multiple correlated informants (sensor nodes) and a
+recipient (base-station). We provide practical and scalable interactive
+communication protocols for data gathering in sensor networks and demonstrate
+their efficiency compared to traditional approaches.
+  In this paper, we first develop a formalism to address the problem of
+worst-case interactive communication between a set of multiple correlated
+informants and a recipient. We realize that there can be different objectives
+to achieve in such a communication scenario and compute the optimal number of
+messages and bits exchanged to realize these objectives. Then, we propose to
+adapt these results in the context of single-hop data-gathering sensor
+networks. Finally, based on this proposed formalism, we propose a clustering
+based communication protocol for large sensor networks and demonstrate its
+superiority over a traditional clustering protocol.
+",False
+distributed systems,Distributed Self Management for Distributed Security Systems,"  Distributed system as e.g. artificial immune systems, complex adaptive
+systems, or multi-agent systems are widely used in Computer Science, e.g. for
+network security, optimisations, or simulations. In these systems, small
+entities move through the network and perform certain tasks. At some time, the
+entities move to another place and require therefore information where to move
+is most profitable. Common used systems do not provide any information or use a
+centralised approach where a center delegates the entities. This article
+discusses whether small information about the neighbours enhances the
+performance of the overall system or not. Therefore, two information-protocols
+are introduced and analysed. In addition, the protocols are implemented and
+tested using the artificial immune system SANA that protects a network against
+intrusions.
+",False
+distributed systems,"A System for Distributed Mechanisms: Design, Implementation and Applications","  We describe here a structured system for distributed mechanism design
+appropriate for both Intranet and Internet applications. In our approach the
+players dynamically form a network in which they know neither their neighbours
+nor the size of the network and interact to jointly take decisions. The only
+assumption concerning the underlying communication layer is that for each pair
+of processes there is a path of neighbours connecting them. This allows us to
+deal with arbitrary network topologies.
+  We also discuss the implementation of this system which consists of a
+sequence of layers. The lower layers deal with the operations that implement
+the basic primitives of distributed computing, namely low level communication
+and distributed termination, while the upper layers use these primitives to
+implement high level communication among players, including broadcasting and
+multicasting, and distributed decision making.
+  This yields a highly flexible distributed system whose specific applications
+are realized as instances of its top layer. This design is implemented in Java.
+  The system supports at various levels fault-tolerance and includes a
+provision for distributed policing the purpose of which is to exclude
+`dishonest' players. Also, it can be used for repeated creation of dynamically
+formed networks of players interested in a joint decision making implemented by
+means of a tax-based mechanism. We illustrate its flexibility by discussing a
+number of implemented examples.
+",False
+distributed systems,Self-Stabilizing Pulse Synchronization Inspired by Biological Pacemaker Networks,"  We define the ``Pulse Synchronization'' problem that requires nodes to
+achieve tight synchronization of regular pulse events, in the settings of
+distributed computing systems. Pulse-coupled synchronization is a phenomenon
+displayed by a large variety of biological systems, typically overcoming a high
+level of noise. Inspired by such biological models, a robust and
+self-stabilizing Byzantine pulse synchronization algorithm for distributed
+computer systems is presented. The algorithm attains near optimal
+synchronization tightness while tolerating up to a third of the nodes
+exhibiting Byzantine behavior concurrently. Pulse synchronization has been
+previously shown to be a powerful building block for designing algorithms in
+this severe fault model. We have previously shown how to stabilize general
+Byzantine algorithms, using pulse synchronization. To the best of our knowledge
+there is no other scheme to do this without the use of synchronized pulses.
+",False
+distributed systems,A Multi Interface Grid Discovery System,"  Discovery Systems (DS) can be considered as entry points for global loosely
+coupled distributed systems. An efficient Discovery System in essence increases
+the performance, reliability and decision making capability of distributed
+systems. With the rapid increase in scale of distributed applications, existing
+solutions for discovery systems are fast becoming either obsolete or incapable
+of handling such complexity. They are particularly ineffective when handling
+service lifetimes and providing up-to-date information, poor at enabling
+dynamic service access and they can also impose unwanted restrictions on
+interfaces to widely available information repositories. In this paper we
+present essential the design characteristics, an implementation and a
+performance analysis for a discovery system capable of overcoming these
+deficiencies in large, globally distributed environments.
+",False
+distributed systems,Mobile Agents for Content-Based WWW Distributed Image Retrieval,"  At present, the de-facto standard for providing contents in the Internet is
+the World Wide Web. A technology, which is now emerging on the Web, is
+Content-Based Image Retrieval (CBIR). CBIR applies methods and algorithms from
+computer science to analyse and index images based on their visual content.
+Mobile agents push the flexibility of distributed systems to their limits since
+not only computations are dynamically distributed but also the code that
+performs them. The current commercial applet-based methodologies for accessing
+image database systems offer limited flexibility, scalability and robustness.
+In this paper the author proposes a new framework for content-based WWW
+distributed image retrieval based on Java-based mobile agents. The
+implementation of the framework shows that its performance is comparable to,
+and in some cases outperforms, the current approach.
+",False
+operating systems,State and history in operating systems,"  A method of using recursive functions to describe state change is applied to
+process switching in UNIX-like operating systems.
+",False
+operating systems,A Survey of Unix Init Schemes,"  In most modern operating systems, init (as in ""initialization"") is the
+program launched by the kernel at boot time. It runs as a daemon and typically
+has PID 1. Init is responsible for spawning all other processes and scavenging
+zombies. It is also responsible for reboot and shutdown operations. This
+document describes existing solutions that implement the init process and/or
+init scripts in Unix-like systems. These solutions range from the legacy and
+still-in-use BSD and SystemV schemes, to recent and promising schemes from
+Ubuntu, Apple, Sun and independent developers. Our goal is to highlight their
+focus and compare their sets of features.
+",False
+operating systems,FreeBSD Mandatory Access Control Usage for Implementing Enterprise Security Policies,"  FreeBSD was one of the first widely deployed free operating systems to
+provide mandatory access control. It supports a number of classic MAC models.
+This tutorial paper addresses exploiting this implementation to enforce typical
+enterprise security policies of varying complexities.
+",False
+operating systems,Increased security through open source,"  In this paper we discuss the impact of open source on both the security and
+transparency of a software system. We focus on the more technical aspects of
+this issue, combining and extending arguments developed over the years. We
+stress that our discussion of the problem only applies to software for general
+purpose computing systems. For embedded systems, where the software usually
+cannot easily be patched or upgraded, different considerations may apply.
+",False
+operating systems,Service Oriented Architecture in Network Security - a novel Organisation in Security Systems,"  Current network security systems are a collection of various security
+components, which are directly installed in the operating system. These check
+the whole node for suspicious behaviour. Armouring intrusions e.g. have the
+ability to hide themselves from being checked. We present in this paper an
+alternative organisation of security systems. The node is completely
+virtualized with current virtualization systems so that the operating system
+with applications and the security system is distinguished. The security system
+then checks the node from outside and the right security components are
+provided through a service oriented architecture. Due to the running in a
+virtual machine, the infected nodes can be halted, duplicated, and moved to
+other nodes for further analysis and legal aspects. This organisation is in
+this article analysed and a preliminary implementation showing promising
+results are discussed.
+",False
+database systems,Experimenting with recursive queries in database and logic programming systems,"  This paper considers the problem of reasoning on massive amounts of (possibly
+distributed) data. Presently, existing proposals show some limitations: {\em
+(i)} the quantity of data that can be handled contemporarily is limited, due to
+the fact that reasoning is generally carried out in main-memory; {\em (ii)} the
+interaction with external (and independent) DBMSs is not trivial and, in
+several cases, not allowed at all; {\em (iii)} the efficiency of present
+implementations is still not sufficient for their utilization in complex
+reasoning tasks involving massive amounts of data. This paper provides a
+contribution in this setting; it presents a new system, called DLV$^{DB}$,
+which aims to solve these problems. Moreover, the paper reports the results of
+a thorough experimental analysis we have carried out for comparing our system
+with several state-of-the-art systems (both logic and databases) on some
+classical deductive problems; the other tested systems are: LDL++, XSB, Smodels
+and three top-level commercial DBMSs. DLV$^{DB}$ significantly outperforms even
+the commercial Database Systems on recursive queries. To appear in Theory and
+Practice of Logic Programming (TPLP)
+",False
+database systems,Neural Networks and Database Systems,"  Object-oriented database systems proved very valuable at handling and
+administrating complex objects. In the following guidelines for embedding
+neural networks into such systems are presented. It is our goal to treat
+networks as normal data in the database system. From the logical point of view,
+a neural network is a complex data value and can be stored as a normal data
+object. It is generally accepted that rule-based reasoning will play an
+important role in future database applications. The knowledge base consists of
+facts and rules, which are both stored and handled by the underlying database
+system. Neural networks can be seen as representation of intensional knowledge
+of intelligent database systems. So they are part of a rule based knowledge
+pool and can be used like conventional rules. The user has a unified view about
+his knowledge base regardless of the origin of the unique rules.
+",False
+database systems,Middleware-based Database Replication: The Gaps between Theory and Practice,"  The need for high availability and performance in data management systems has
+been fueling a long running interest in database replication from both academia
+and industry. However, academic groups often attack replication problems in
+isolation, overlooking the need for completeness in their solutions, while
+commercial teams take a holistic approach that often misses opportunities for
+fundamental innovation. This has created over time a gap between academic
+research and industrial practice.
+  This paper aims to characterize the gap along three axes: performance,
+availability, and administration. We build on our own experience developing and
+deploying replication systems in commercial and academic settings, as well as
+on a large body of prior related work. We sift through representative examples
+from the last decade of open-source, academic, and commercial database
+replication systems and combine this material with case studies from real
+systems deployed at Fortune 500 customers. We propose two agendas, one for
+academic research and one for industrial R&D, which we believe can bridge the
+gap within 5-10 years. This way, we hope to both motivate and help researchers
+in making the theory and practice of middleware-based database replication more
+relevant to each other.
+",False
+database systems,Mnesors for databases,"  We add commutativity to axioms defining mnesors and substitute a bitrop for
+the lattice. We show that it can be applied to relational database querying:
+set union, intersection and selection are redifined only from the mnesor
+addition and the granular multiplication. Union-compatibility is not required.
+",False
+database systems,Performance Comparison of Persistence Frameworks,"  One of the essential and most complex components in the software development
+process is the database. The complexity increases when the ""orientation"" of the
+interacting components differs. A persistence framework moves the program data
+in its most natural form to and from a permanent data store, the database. Thus
+a persistence framework manages the database and the mapping between the
+database and the objects. This paper compares the performance of two
+persistence frameworks ? Hibernate and iBatis?s SQLMaps using a banking
+database. The performance of both of these tools in single and multi-user
+environments are evaluated.
+",False
+data mining,Text Data Mining: Theory and Methods,"  This paper provides the reader with a very brief introduction to some of the
+theory and methods of text data mining. The intent of this article is to
+introduce the reader to some of the current methodologies that are employed
+within this discipline area while at the same time making the reader aware of
+some of the interesting challenges that remain to be solved within the area.
+Finally, the articles serves as a very rudimentary tutorial on some of
+techniques while also providing the reader with a list of references for
+additional study.
+",False
+data mining,Decision tree modeling with relational views,"  Data mining is a useful decision support technique that can be used to
+discover production rules in warehouses or corporate data. Data mining research
+has made much effort to apply various mining algorithms efficiently on large
+databases. However, a serious problem in their practical application is the
+long processing time of such algorithms. Nowadays, one of the key challenges is
+to integrate data mining methods within the framework of traditional database
+systems. Indeed, such implementations can take advantage of the efficiency
+provided by SQL engines. In this paper, we propose an integrating approach for
+decision trees within a classical database system. In other words, we try to
+discover knowledge from relational databases, in the form of production rules,
+via a procedure embedding SQL queries. The obtained decision tree is defined by
+successive, related relational views. Each view corresponds to a given
+population in the underlying decision tree. We selected the classical Induction
+Decision Tree (ID3) algorithm to build the decision tree. To prove that our
+implementation of ID3 works properly, we successfully compared the output of
+our procedure with the output of an existing and validated data mining
+software, SIPINA. Furthermore, since our approach is tuneable, it can be
+generalized to any other similar decision tree-based method.
+",False
+data mining,Discovering More Accurate Frequent Web Usage Patterns,"  Web usage mining is a type of web mining, which exploits data mining
+techniques to discover valuable information from navigation behavior of World
+Wide Web users. As in classical data mining, data preparation and pattern
+discovery are the main issues in web usage mining. The first phase of web usage
+mining is the data processing phase, which includes the session reconstruction
+operation from server logs. Session reconstruction success directly affects the
+quality of the frequent patterns discovered in the next phase. In reactive web
+usage mining techniques, the source data is web server logs and the topology of
+the web pages served by the web server domain. Other kinds of information
+collected during the interactive browsing of web site by user, such as cookies
+or web logs containing similar information, are not used. The next phase of web
+usage mining is discovering frequent user navigation patterns. In this phase,
+pattern discovery methods are applied on the reconstructed sessions obtained in
+the first phase in order to discover frequent user patterns. In this paper, we
+propose a frequent web usage pattern discovery method that can be applied after
+session reconstruction phase. In order to compare accuracy performance of
+session reconstruction phase and pattern discovery phase, we have used an agent
+simulator, which models behavior of web users and generates web user navigation
+as well as the log data kept by the web server.
+",False
+data mining,Logic Mining Using Neural Networks,"  Knowledge could be gained from experts, specialists in the area of interest,
+or it can be gained by induction from sets of data. Automatic induction of
+knowledge from data sets, usually stored in large databases, is called data
+mining. Data mining methods are important in the management of complex systems.
+There are many technologies available to data mining practitioners, including
+Artificial Neural Networks, Regression, and Decision Trees. Neural networks
+have been successfully applied in wide range of supervised and unsupervised
+learning applications. Neural network methods are not commonly used for data
+mining tasks, because they often produce incomprehensible models, and require
+long training times. One way in which the collective properties of a neural
+network may be used to implement a computational task is by way of the concept
+of energy minimization. The Hopfield network is well-known example of such an
+approach. The Hopfield network is useful as content addressable memory or an
+analog computer for solving combinatorial-type optimization problems. Wan
+Abdullah [1] proposed a method of doing logic programming on a Hopfield neural
+network. Optimization of logical inconsistency is carried out by the network
+after the connection strengths are defined from the logic program; the network
+relaxes to neural states corresponding to a valid interpretation. In this
+article, we describe how Hopfield network is able to induce logical rules from
+large database by using reverse analysis method: given the values of the
+connections of a network, we can hope to know what logical rules are entrenched
+in the database.
+",False
+data mining,New probabilistic interest measures for association rules,"  Mining association rules is an important technique for discovering meaningful
+patterns in transaction databases. Many different measures of interestingness
+have been proposed for association rules. However, these measures fail to take
+the probabilistic properties of the mined data into account. In this paper, we
+start with presenting a simple probabilistic framework for transaction data
+which can be used to simulate transaction data when no associations are
+present. We use such data and a real-world database from a grocery outlet to
+explore the behavior of confidence and lift, two popular interest measures used
+for rule mining. The results show that confidence is systematically influenced
+by the frequency of the items in the left hand side of rules and that lift
+performs poorly to filter random noise in transaction data. Based on the
+probabilistic framework we develop two new interest measures, hyper-lift and
+hyper-confidence, which can be used to filter or order mined association rules.
+The new measures show significantly better performance than lift for
+applications where spurious rules are problematic.
+",False
+big data analytics,A New Approach to Spreadsheet Analytics Management in Financial Markets,"  Spreadsheets in financial markets are frequently used as database, calculator
+and reporting application combined. This paper describes an alternative
+approach in which spreadsheet design and database technology have been brought
+together in order to alleviate management and regulatory concerns over the
+operational risks of spreadsheet usage. In particular, the paper focuses on the
+rapid creation and centralised deployment of statistical analytics within a
+software system now in use by major investment banks, and presents a novel
+technique for the manipulation in spreadsheets of high volumes of intraday
+market data.
+",False
+big data analytics,Data Mining-based Materialized View and Index Selection in Data Warehouses,"  Materialized views and indexes are physical structures for accelerating data
+access that are casually used in data warehouses. However, these data
+structures generate some maintenance overhead. They also share the same storage
+space. Most existing studies about materialized view and index selection
+consider these structures separately. In this paper, we adopt the opposite
+stance and couple materialized view and index selection to take view-index
+interactions into account and achieve efficient storage space sharing.
+Candidate materialized views and indexes are selected through a data mining
+process. We also exploit cost models that evaluate the respective benefit of
+indexing and view materialization, and help select a relevant configuration of
+indexes and materialized views among the candidates. Experimental results show
+that our strategy performs better than an independent selection of materialized
+views and indexes.
+",False
+big data analytics,Human dynamics revealed through Web analytics,"  When the World Wide Web was first conceived as a way to facilitate the
+sharing of scientific information at the CERN (European Center for Nuclear
+Research) few could have imagined the role it would come to play in the
+following decades. Since then, the increasing ubiquity of Internet access and
+the frequency with which people interact with it raise the possibility of using
+the Web to better observe, understand, and monitor several aspects of human
+social behavior. Web sites with large numbers of frequently returning users are
+ideal for this task. If these sites belong to companies or universities, their
+usage patterns can furnish information about the working habits of entire
+populations. In this work, we analyze the properly anonymized logs detailing
+the access history to Emory University's Web site. Emory is a medium size
+university located in Atlanta, Georgia. We find interesting structure in the
+activity patterns of the domain and study in a systematic way the main forces
+behind the dynamics of the traffic. In particular, we show that both linear
+preferential linking and priority based queuing are essential ingredients to
+understand the way users navigate the Web.
+",False
+software engineering,A Process Algebra Software Engineering Environment,"  In previous work we described how the process algebra based language PSF can
+be used in software engineering, using the ToolBus, a coordination architecture
+also based on process algebra, as implementation model. In this article we
+summarize that work and describe the software development process more formally
+by presenting the tools we use in this process in a CASE setting, leading to
+the PSF-ToolBus software engineering environment. We generalize the refine step
+in this environment towards a process algebra based software engineering
+workbench of which several instances can be combined to form an environment.
+",False
+software engineering,Software (Re-)Engineering with PSF,"  This paper investigates the usefulness of PSF in software engineering and
+reengineering. PSF is based on ACP (Algebra of Communicating Processes) and as
+some architectural description languages are based on process algebra, we
+investigate whether PSF can be used at the software architecture level, but we
+also use PSF at lower abstract levels. As a case study we reengineer the
+compiler from the Toolkit of PSF.
+",False
+software engineering,Software (Re-)Engineering with PSF III: an IDE for PSF,"  We describe the design of an integrated development environment (IDE) for
+PSF. In the software engineering process we used process algebra in the form of
+PSF for the specification of the architecture of the IDE. This specification is
+refined to a PSF specification of the IDE system as a ToolBus application, by
+applying vertical and horizontal implementation techniques. We implemented the
+various tools as specified and connected them with a ToolBus script extracted
+from the system specification.
+",False
+software engineering,Spreadsheet Engineering: A Research Framework,"  Spreadsheet engineering adapts the lessons of software engineering to
+spreadsheets, providing eight principles as a framework for organizing
+spreadsheet programming recommendations. Spreadsheets raise issues inadequately
+addressed by software engineering. Spreadsheets are a powerful modeling
+language, allowing strategic rapid model change, and enabling exploratory
+modeling. Spreadsheets users learn slowly with experience because they focus on
+the problem domain not programming. The heterogeneity of spreadsheet users
+requires a taxonomy to guide recommendations. Deployment of best practices is
+difficult and merits research.
+",False
+software engineering,Software (Re-)Engineering with PSF II: from architecture to implementation,"  This paper presents ongoing research on the application of PSF in the field
+of software engineering and reengineering. We build a new implementation for
+the simulator of the PSF Toolkit starting from the specification in PSF of the
+architecture of a simple simulator and extend it with features to obtain the
+architecture of a full simulator. We apply refining and constraining techniques
+on the specification of the architecture to obtain a specification low enough
+to build an implementation from.
+",False
+compiler optimization,Optimizing Compiler for Engineering Problems,"  New information technologies provide a lot of prospects for performance
+improvement. One of them is ""Dynamic Source Code Generation and Compilation"".
+This article shows how this way provides high performance for engineering
+problems.
+",False
+compiler optimization,Improvements to the Psi-SSA representation,"  Modern compiler implementations use the Static Single Assignment
+representation as a way to efficiently implement optimizing algorithms. However
+this representation is not well adapted to architectures with a predicated
+instruction set. The Psi-SSA representation extends the SSA representation such
+that standard SSA algorithms can be easily adapted to an architecture with a
+fully predicated instruction set. A new pseudo operation, the Psi operation, is
+introduced to merge several conditional definitions into a unique definition.
+",False
+compiler optimization,Conformal Computing: Algebraically connecting the hardware/software boundary using a uniform approach to high-performance computation for software and hardware applications,"  We present a systematic, algebraically based, design methodology for
+efficient implementation of computer programs optimized over multiple levels of
+the processor/memory and network hierarchy. Using a common formalism to
+describe the problem and the partitioning of data over processors and memory
+levels allows one to mathematically prove the efficiency and correctness of a
+given algorithm as measured in terms of a set of metrics (such as
+processor/network speeds, etc.). The approach allows the average programmer to
+achieve high-level optimizations similar to those used by compiler writers
+(e.g. the notion of ""tiling"").
+  The approach presented in this monograph makes use of A Mathematics of Arrays
+(MoA, Mullin 1988) and an indexing calculus (i.e. the psi-calculus) to enable
+the programmer to develop algorithms using high-level compiler-like
+optimizations through the ability to algebraically compose and reduce sequences
+of array operations. Extensive discussion and benchmark results are presented
+for the Fast Fourier Transform and other important algorithms.
+",False
+compiler optimization,On the Complexity of Spill Everywhere under SSA Form,"  Compilation for embedded processors can be either aggressive (time consuming
+cross-compilation) or just in time (embedded and usually dynamic). The
+heuristics used in dynamic compilation are highly constrained by limited
+resources, time and memory in particular. Recent results on the SSA form open
+promising directions for the design of new register allocation heuristics for
+embedded systems and especially for embedded compilation. In particular,
+heuristics based on tree scan with two separated phases -- one for spilling,
+then one for coloring/coalescing -- seem good candidates for designing
+memory-friendly, fast, and competitive register allocators. Still, also because
+of the side effect on power consumption, the minimization of loads and stores
+overhead (spilling problem) is an important issue. This paper provides an
+exhaustive study of the complexity of the ``spill everywhere'' problem in the
+context of the SSA form. Unfortunately, conversely to our initial hopes, many
+of the questions we raised lead to NP-completeness results. We identify some
+polynomial cases but that are impractical in JIT context. Nevertheless, they
+can give hints to simplify formulations for the design of aggressive
+allocators.
+",False
+compiler optimization,An Infrastructure to Functionally Test Designs Generated by Compilers Targeting FPGAs,"  This paper presents an infrastructure to test the functionality of the
+specific architectures output by a high-level compiler targeting dynamically
+reconfigurable hardware. It results in a suitable scheme to verify the
+architectures generated by the compiler, each time new optimization techniques
+are included or changes in the compiler are performed. We believe this kind of
+infrastructure is important to verify, by functional simulation, further
+research techniques, as far as compilation to Field-Programmable Gate Array
+(FPGA) platforms is concerned.
+",False
+object detection,Fusion for Evaluation of Image Classification in Uncertain Environments,"  We present in this article a new evaluation method for classification and
+segmentation of textured images in uncertain environments. In uncertain
+environments, real classes and boundaries are known with only a partial
+certainty given by the experts. Most of the time, in many presented papers,
+only classification or only segmentation are considered and evaluated. Here, we
+propose to take into account both the classification and segmentation results
+according to the certainty given by the experts. We present the results of this
+method on a fusion of classifiers of sonar images for a seabed
+characterization.
+",False
+image classification,Evaluation for Uncertain Image Classification and Segmentation,"  Each year, numerous segmentation and classification algorithms are invented
+or reused to solve problems where machine vision is needed. Generally, the
+efficiency of these algorithms is compared against the results given by one or
+many human experts. However, in many situations, the location of the real
+boundaries of the objects as well as their classes are not known with certainty
+by the human experts. Furthermore, only one aspect of the segmentation and
+classification problem is generally evaluated. In this paper we present a new
+evaluation method for classification and segmentation of image, where we take
+into account both the classification and segmentation results as well as the
+level of certainty given by the experts. As a concrete example of our method,
+we evaluate an automatic seabed characterization algorithm based on sonar
+images.
+",False
+image classification,Wavelet and Curvelet Moments for Image Classification: Application to Aggregate Mixture Grading,"  We show the potential for classifying images of mixtures of aggregate, based
+themselves on varying, albeit well-defined, sizes and shapes, in order to
+provide a far more effective approach compared to the classification of
+individual sizes and shapes. While a dominant (additive, stationary) Gaussian
+noise component in image data will ensure that wavelet coefficients are of
+Gaussian distribution, long tailed distributions (symptomatic, for example, of
+extreme values) may well hold in practice for wavelet coefficients. Energy (2nd
+order moment) has often been used for image characterization for image
+content-based retrieval, and higher order moments may be important also, not
+least for capturing long tailed distributional behavior. In this work, we
+assess 2nd, 3rd and 4th order moments of multiresolution transform -- wavelet
+and curvelet transform -- coefficients as features. As analysis methodology,
+taking account of image types, multiresolution transforms, and moments of
+coefficients in the scales or bands, we use correspondence analysis as well as
+k-nearest neighbors supervised classification.
+",False
+image classification,Belief decision support and reject for textured images characterization,"  The textured images' classification assumes to consider the images in terms
+of area with the same texture. In uncertain environment, it could be better to
+take an imprecise decision or to reject the area corresponding to an unlearning
+class. Moreover, on the areas that are the classification units, we can have
+more than one texture. These considerations allows us to develop a belief
+decision model permitting to reject an area as unlearning and to decide on
+unions and intersections of learning classes. The proposed approach finds all
+its justification in an application of seabed characterization from sonar
+images, which contributes to an illustration.
+",False
+object detection,Spatio-activity based object detection,"  We present the SAMMI lightweight object detection method which has a high
+level of accuracy and robustness, and which is able to operate in an
+environment with a large number of cameras. Background modeling is based on DCT
+coefficients provided by cameras. Foreground detection uses similarity in
+temporal characteristics of adjacent blocks of pixels, which is a
+computationally inexpensive way to make use of object coherence. Scene model
+updating uses the approximated median method for improved performance.
+Evaluation at pixel level and application level shows that SAMMI object
+detection performs better and faster than the conventional Mixture of Gaussians
+method.
+",False
+object detection,Dynamic Clustering in Object-Oriented Databases: An Advocacy for Simplicity,"  We present in this paper three dynamic clustering techniques for
+Object-Oriented Databases (OODBs). The first two, Dynamic, Statistical &
+Tunable Clustering (DSTC) and StatClust, exploit both comprehensive usage
+statistics and the inter-object reference graph. They are quite elaborate.
+However, they are also complex to implement and induce a high overhead. The
+third clustering technique, called Detection & Reclustering of Objects (DRO),
+is based on the same principles, but is much simpler to implement. These three
+clustering algorithm have been implemented in the Texas persistent object store
+and compared in terms of clustering efficiency (i.e., overall performance
+increase) and overhead using the Object Clustering Benchmark (OCB). The results
+obtained showed that DRO induced a lighter overhead while still achieving
+better overall performance.
+",False

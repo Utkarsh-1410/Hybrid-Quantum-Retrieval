@@ -1,0 +1,1002 @@
+[
+    {
+        "query": "machine learning",
+        "results": [
+            {
+                "title": "Extreme Learning Machine for land cover classification",
+                "relevant": false
+            },
+            {
+                "title": "TRUST-TECH based Methods for Optimization and Learning",
+                "relevant": true
+            },
+            {
+                "title": "An Adaptive Strategy for the Classification of G-Protein Coupled Receptors",
+                "relevant": true
+            },
+            {
+                "title": "Prediction with expert advice for the Brier game",
+                "relevant": true
+            },
+            {
+                "title": "Decision Support with Belief Functions Theory for Seabed Characterization",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "deep learning",
+        "results": [
+            {
+                "title": "Bootstrapping Deep Lexical Resources: Resources for Courses",
+                "relevant": false
+            },
+            {
+                "title": "The VO-Neural project: recent developments and some applications",
+                "relevant": false
+            },
+            {
+                "title": "Phoneme recognition in TIMIT with BLSTM-CTC",
+                "relevant": true
+            },
+            {
+                "title": "Computer Model of a \"Sense of Humour\". II. Realization in Neural Networks",
+                "relevant": false
+            },
+            {
+                "title": "Multi-Dimensional Recurrent Neural Networks",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "artificial intelligence",
+        "results": [
+            {
+                "title": "Universal Intelligence: A Definition of Machine Intelligence",
+                "relevant": true
+            },
+            {
+                "title": "Tests of Machine Intelligence",
+                "relevant": true
+            },
+            {
+                "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
+                "relevant": true
+            },
+            {
+                "title": "2006: Celebrating 75 years of AI - History and Outlook: the Next 25 Years",
+                "relevant": true
+            },
+            {
+                "title": "The Road to Quantum Artificial Intelligence",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "computer vision",
+        "results": [
+            {
+                "title": "View Based Methods can achieve Bayes-Optimal 3D Recognition",
+                "relevant": false
+            },
+            {
+                "title": "I'm sorry to say, but your understanding of image processing fundamentals is absolutely wrong",
+                "relevant": false
+            },
+            {
+                "title": "Image Processing in Optical Guidance for Autonomous Landing of Lunar Probe",
+                "relevant": true
+            },
+            {
+                "title": "On Ullman's theorem in computer vision",
+                "relevant": true
+            },
+            {
+                "title": "Acquisition Accuracy Evaluation in Visual Inspection Systems - a Practical Approach",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "natural language processing",
+        "results": [
+            {
+                "title": "A Robust Linguistic Platform for Efficient and Domain specific Web Content Analysis",
+                "relevant": false
+            },
+            {
+                "title": "In memoriam Maurice Gross",
+                "relevant": true
+            },
+            {
+                "title": "Framework and Resources for Natural Language Parser Evaluation",
+                "relevant": false
+            },
+            {
+                "title": "Valence extraction using EM selection and co-occurrence matrices",
+                "relevant": true
+            },
+            {
+                "title": "Evaluation of a Grammar of French Determiners",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "transformer models",
+        "results": [
+            {
+                "title": "A Novel Piezoelectric Microtransformer for Autonmous Sensors Applications",
+                "relevant": true
+            },
+            {
+                "title": "Quadrature formulas for the Laplace and Mellin transforms",
+                "relevant": false
+            },
+            {
+                "title": "Computational aspects and applications of a new transform for solving the complex exponentials approximation problem",
+                "relevant": true
+            },
+            {
+                "title": "Morphing Ensemble Kalman Filters",
+                "relevant": true
+            },
+            {
+                "title": "Belief Propagation and Loop Series on Planar Graphs",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "large language models",
+        "results": [
+            {
+                "title": "Methods to integrate a language model with semantic information for a word prediction component",
+                "relevant": false
+            },
+            {
+                "title": "Demographic growth and the distribution of language sizes",
+                "relevant": true
+            },
+            {
+                "title": "The emerging field of language dynamics",
+                "relevant": false
+            },
+            {
+                "title": "Hubs in Languages: Scale Free Networks of Synonyms",
+                "relevant": false
+            },
+            {
+                "title": "Towards a stable definition of Kolmogorov-Chaitin complexity",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "graph neural networks",
+        "results": [
+            {
+                "title": "Image Authentication Based on Neural Networks",
+                "relevant": true
+            },
+            {
+                "title": "Machine and Component Residual Life Estimation through the Application of Neural Networks",
+                "relevant": true
+            },
+            {
+                "title": "Lossless Representation of Graphs using Distributions",
+                "relevant": true
+            },
+            {
+                "title": "Option Pricing Using Bayesian Neural Networks",
+                "relevant": true
+            },
+            {
+                "title": "Computer Model of a \"Sense of Humour\". II. Realization in Neural Networks",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "reinforcement learning",
+        "results": [
+            {
+                "title": "Reinforcement Learning by Value Gradients",
+                "relevant": true
+            },
+            {
+                "title": "Rollout Sampling Approximate Policy Iteration",
+                "relevant": false
+            },
+            {
+                "title": "Statistical-mechanics approach to a reinforcement learning model with memory",
+                "relevant": true
+            },
+            {
+                "title": "Universal Reinforcement Learning",
+                "relevant": true
+            },
+            {
+                "title": "Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "federated learning",
+        "results": [
+            {
+                "title": "Enabling Adaptive Grid Scheduling and Resource Management",
+                "relevant": false
+            },
+            {
+                "title": "Dimensionally Distributed Learning: Models and Algorithm",
+                "relevant": true
+            },
+            {
+                "title": "Reinforcement Learning by Value Gradients",
+                "relevant": false
+            },
+            {
+                "title": "Developing a Collaborative and Autonomous Training and Learning Environment for Hybrid Wireless Networks",
+                "relevant": true
+            },
+            {
+                "title": "Learning Low-Density Separators",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "transfer learning",
+        "results": [
+            {
+                "title": "Oblivious Transfer based on Key Exchange",
+                "relevant": true
+            },
+            {
+                "title": "Learning Low-Density Separators",
+                "relevant": true
+            },
+            {
+                "title": "Composable Security in the Bounded-Quantum-Storage Model",
+                "relevant": true
+            },
+            {
+                "title": "Neural networks in 3D medical scan visualization",
+                "relevant": false
+            },
+            {
+                "title": "Interface groups and financial transfer architectures",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "few shot learning",
+        "results": [
+            {
+                "title": "Sparse Online Learning via Truncated Gradient",
+                "relevant": false
+            },
+            {
+                "title": "Statistical Learning of Arbitrary Computable Classifiers",
+                "relevant": true
+            },
+            {
+                "title": "Learning View Generalization Functions",
+                "relevant": false
+            },
+            {
+                "title": "Learning Low-Density Separators",
+                "relevant": true
+            },
+            {
+                "title": "Human expert fusion for image classification",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "self supervised learning",
+        "results": [
+            {
+                "title": "A Unified Semi-Supervised Dimensionality Reduction Framework for Manifold Learning",
+                "relevant": true
+            },
+            {
+                "title": "Learning Probabilistic Models of Word Sense Disambiguation",
+                "relevant": false
+            },
+            {
+                "title": "Supervised Feature Selection via Dependence Estimation",
+                "relevant": false
+            },
+            {
+                "title": "On Kernelization of Supervised Mahalanobis Distance Learners",
+                "relevant": false
+            },
+            {
+                "title": "Multi-Instance Learning by Treating Instances As Non-I.I.D. Samples",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "knowledge graphs",
+        "results": [
+            {
+                "title": "Evaluation and exploitation of knowledge robustness in knowledge-based systems",
+                "relevant": true
+            },
+            {
+                "title": "Graph Algorithms for Improving Type-Logical Proof Search",
+                "relevant": true
+            },
+            {
+                "title": "Knowledge bases over algebraic models. Some notes about informational equivalence",
+                "relevant": true
+            },
+            {
+                "title": "Knowledge Technologies",
+                "relevant": true
+            },
+            {
+                "title": "Exposing Multi-Relational Networks to Single-Relational Network Analysis Algorithms",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "recommendation systems",
+        "results": [
+            {
+                "title": "Recommendation model based on opinion diffusion",
+                "relevant": false
+            },
+            {
+                "title": "Movie Recommendation Systems Using An Artificial Immune System",
+                "relevant": true
+            },
+            {
+                "title": "When are recommender systems useful?",
+                "relevant": true
+            },
+            {
+                "title": "On Affinity Measures for Artificial Immune System Movie Recommenders",
+                "relevant": false
+            },
+            {
+                "title": "Solving the apparent diversity-accuracy dilemma of recommender systems",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "information retrieval",
+        "results": [
+            {
+                "title": "On the fractal nature of mutual relevance sequences in the Internet news message flows",
+                "relevant": true
+            },
+            {
+                "title": "Comparing and Combining Methods for Automatic Query Expansion",
+                "relevant": false
+            },
+            {
+                "title": "Contextual Information Retrieval based on Algorithmic Information Theory and Statistical Outlier Detection",
+                "relevant": true
+            },
+            {
+                "title": "Interpr\\'etation vague des contraintes structurelles pour la RI dans des corpus de documents XML - \\'Evaluation d'une m\\'ethode approch\\'ee de RI structur\\'ee",
+                "relevant": false
+            },
+            {
+                "title": "Approximate textual retrieval",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "search engines",
+        "results": [
+            {
+                "title": "The Anatomy of Mitos Web Search Engine",
+                "relevant": true
+            },
+            {
+                "title": "An exploratory study of Google Scholar",
+                "relevant": true
+            },
+            {
+                "title": "Logic Engines as Interactors",
+                "relevant": true
+            },
+            {
+                "title": "Spam: It's Not Just for Inboxes and Search Engines! Making Hirsch h-index Robust to Scientospam",
+                "relevant": true
+            },
+            {
+                "title": "Algorithmic Methods for Sponsored Search Advertising",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "document ranking",
+        "results": [
+            {
+                "title": "Respect My Authority! HITS Without Hyperlinks, Utilizing Cluster-Based Language Models",
+                "relevant": true
+            },
+            {
+                "title": "Direct Optimization of Ranking Measures",
+                "relevant": true
+            },
+            {
+                "title": "Entity Ranking in Wikipedia",
+                "relevant": true
+            },
+            {
+                "title": "Reducing semantic complexity in distributed Digital Libraries: treatment of term vagueness and document re-ranking",
+                "relevant": false
+            },
+            {
+                "title": "Use of Wikipedia Categories in Entity Ranking",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "semantic search",
+        "results": [
+            {
+                "title": "Building a terminology network for search: the KoMoHe project",
+                "relevant": false
+            },
+            {
+                "title": "A Robust Linguistic Platform for Efficient and Domain specific Web Content Analysis",
+                "relevant": false
+            },
+            {
+                "title": "Reducing semantic complexity in distributed Digital Libraries: treatment of term vagueness and document re-ranking",
+                "relevant": false
+            },
+            {
+                "title": "Modeling Computations in a Semantic Network",
+                "relevant": true
+            },
+            {
+                "title": "Optimizing Queries in a Logic-based Information Integration System",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "question answering",
+        "results": [
+            {
+                "title": "Practical Approach to Knowledge-based Question Answering with Natural Language Understanding and Advanced Reasoning",
+                "relevant": false
+            },
+            {
+                "title": "Interpolation in Valiant's theory",
+                "relevant": false
+            },
+            {
+                "title": "A Theory for Valiant's Matchcircuits (Extended Abstract)",
+                "relevant": true
+            },
+            {
+                "title": "Does intelligence imply contradiction?",
+                "relevant": true
+            },
+            {
+                "title": "The Generation of Textual Entailment with NLML in an Intelligent Dialogue system for Language Learning CSIEC",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "retrieval augmented generation",
+        "results": [
+            {
+                "title": "Approximate textual retrieval",
+                "relevant": true
+            },
+            {
+                "title": "Augmented Tree-based Routing Protocol for Scalable Ad Hoc Networks",
+                "relevant": true
+            },
+            {
+                "title": "On Introspection, Metacognitive Control and Augmented Data Mining Live Cycles",
+                "relevant": true
+            },
+            {
+                "title": "Comparing and Combining Methods for Automatic Query Expansion",
+                "relevant": false
+            },
+            {
+                "title": "CLAIRLIB Documentation v1.03",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "quantum computing",
+        "results": [
+            {
+                "title": "Prospective Algorithms for Quantum Evolutionary Computation",
+                "relevant": true
+            },
+            {
+                "title": "A Survey of Quantum Programming Languages: History, Methods, and Tools",
+                "relevant": false
+            },
+            {
+                "title": "The Road to Quantum Artificial Intelligence",
+                "relevant": false
+            },
+            {
+                "title": "Grover search algorithm",
+                "relevant": true
+            },
+            {
+                "title": "Checking Equivalence of Quantum Circuits and States",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "quantum machine learning",
+        "results": [
+            {
+                "title": "The Road to Quantum Artificial Intelligence",
+                "relevant": true
+            },
+            {
+                "title": "Quantum Algorithms for Learning and Testing Juntas",
+                "relevant": true
+            },
+            {
+                "title": "Extreme Learning Machine for land cover classification",
+                "relevant": true
+            },
+            {
+                "title": "Grover search algorithm",
+                "relevant": true
+            },
+            {
+                "title": "Prospective Algorithms for Quantum Evolutionary Computation",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "quantum algorithms",
+        "results": [
+            {
+                "title": "Grover search algorithm",
+                "relevant": true
+            },
+            {
+                "title": "The Road to Quantum Artificial Intelligence",
+                "relevant": true
+            },
+            {
+                "title": "Prospective Algorithms for Quantum Evolutionary Computation",
+                "relevant": true
+            },
+            {
+                "title": "Quantum Algorithms for Learning and Testing Juntas",
+                "relevant": false
+            },
+            {
+                "title": "Quantum walk based search algorithms",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "blockchain",
+        "results": [
+            {
+                "title": "Distributed Double Spending Prevention",
+                "relevant": false
+            },
+            {
+                "title": "On the Security of Liaw et al.'s Scheme",
+                "relevant": false
+            },
+            {
+                "title": "Integrity-Enhancing Replica Coordination for Byzantine Fault Tolerant Systems",
+                "relevant": false
+            },
+            {
+                "title": "CANE: The Content Addressed Network Environment",
+                "relevant": false
+            },
+            {
+                "title": "GRID Architecture through a Public Cluster",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "cyber security",
+        "results": [
+            {
+                "title": "Cyberspace security: How to develop a security strategy",
+                "relevant": false
+            },
+            {
+                "title": "SANA - Security Analysis in Internet Traffic through Artificial Immune Systems",
+                "relevant": false
+            },
+            {
+                "title": "A Network Protection Framework through Artificial Immunity",
+                "relevant": false
+            },
+            {
+                "title": "Danger Theory: The Link between AIS and IDS?",
+                "relevant": false
+            },
+            {
+                "title": "SANA - Network Protection through artificial Immunity",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "network intrusion detection",
+        "results": [
+            {
+                "title": "Data Reduction in Intrusion Alert Correlation",
+                "relevant": false
+            },
+            {
+                "title": "Intrusion Detection Using Cost-Sensitive Classification",
+                "relevant": true
+            },
+            {
+                "title": "Towards an Effective Intrusion Response Engine Combined with Intrusion Detection in Ad Hoc Networks",
+                "relevant": true
+            },
+            {
+                "title": "A Survey on Deep Packet Inspection for Intrusion Detection Systems",
+                "relevant": true
+            },
+            {
+                "title": "Strategic Alert Throttling for Intrusion Detection Systems",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "cloud computing",
+        "results": [
+            {
+                "title": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+                "relevant": true
+            },
+            {
+                "title": "Data Mining Using High Performance Data Clouds: Experimental Studies Using Sector and Sphere",
+                "relevant": true
+            },
+            {
+                "title": "Local search heuristics: Fitness Cloud versus Fitness Landscape",
+                "relevant": true
+            },
+            {
+                "title": "Minimal positive stencils in meshfree finite difference methods for the Poisson equation",
+                "relevant": true
+            },
+            {
+                "title": "Performance Analysis of Publish/Subscribe Systems",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "edge computing",
+        "results": [
+            {
+                "title": "Computing Minimum Spanning Trees with Uncertainty",
+                "relevant": true
+            },
+            {
+                "title": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+                "relevant": true
+            },
+            {
+                "title": "A distributed algorithm for computing and updating the process number of a forest",
+                "relevant": true
+            },
+            {
+                "title": "A Symphony Conducted by Brunet",
+                "relevant": true
+            },
+            {
+                "title": "Optimal Per-Edge Processing Times in the Semi-Streaming Model",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "internet of things",
+        "results": [
+            {
+                "title": "Translating a first-order modal language to relational algebra",
+                "relevant": false
+            },
+            {
+                "title": "Can the Internet cope with stress?",
+                "relevant": true
+            },
+            {
+                "title": "Development of Architectures for Internet Telerobotics Systems",
+                "relevant": true
+            },
+            {
+                "title": "An integrated model of traffic, geography and economy in the Internet",
+                "relevant": true
+            },
+            {
+                "title": "A Framework for Providing E-Services to the Rural Areas using Wireless Ad Hoc and Sensor Networks",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "wireless sensor networks",
+        "results": [
+            {
+                "title": "Smartening the Environment using Wireless Sensor Networks in a Developing Country",
+                "relevant": true
+            },
+            {
+                "title": "Security in Wireless Sensor Networks: Issues and Challenges",
+                "relevant": true
+            },
+            {
+                "title": "A Framework for Providing E-Services to the Rural Areas using Wireless Ad Hoc and Sensor Networks",
+                "relevant": true
+            },
+            {
+                "title": "QoS Challenges and Opportunities in Wireless Sensor/Actuator Networks",
+                "relevant": true
+            },
+            {
+                "title": "Worst-Case Interactive Communication and Enhancing Sensor Network Lifetime",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "distributed systems",
+        "results": [
+            {
+                "title": "Distributed Self Management for Distributed Security Systems",
+                "relevant": true
+            },
+            {
+                "title": "A System for Distributed Mechanisms: Design, Implementation and Applications",
+                "relevant": false
+            },
+            {
+                "title": "Self-Stabilizing Pulse Synchronization Inspired by Biological Pacemaker Networks",
+                "relevant": true
+            },
+            {
+                "title": "A Multi Interface Grid Discovery System",
+                "relevant": true
+            },
+            {
+                "title": "Mobile Agents for Content-Based WWW Distributed Image Retrieval",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "operating systems",
+        "results": [
+            {
+                "title": "State and history in operating systems",
+                "relevant": true
+            },
+            {
+                "title": "A Survey of Unix Init Schemes",
+                "relevant": true
+            },
+            {
+                "title": "FreeBSD Mandatory Access Control Usage for Implementing Enterprise Security Policies",
+                "relevant": true
+            },
+            {
+                "title": "Increased security through open source",
+                "relevant": false
+            },
+            {
+                "title": "Service Oriented Architecture in Network Security - a novel Organisation in Security Systems",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "database systems",
+        "results": [
+            {
+                "title": "Experimenting with recursive queries in database and logic programming systems",
+                "relevant": true
+            },
+            {
+                "title": "Neural Networks and Database Systems",
+                "relevant": true
+            },
+            {
+                "title": "Middleware-based Database Replication: The Gaps between Theory and Practice",
+                "relevant": true
+            },
+            {
+                "title": "Mnesors for databases",
+                "relevant": true
+            },
+            {
+                "title": "Performance Comparison of Persistence Frameworks",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "data mining",
+        "results": [
+            {
+                "title": "Text Data Mining: Theory and Methods",
+                "relevant": true
+            },
+            {
+                "title": "Decision tree modeling with relational views",
+                "relevant": true
+            },
+            {
+                "title": "Discovering More Accurate Frequent Web Usage Patterns",
+                "relevant": true
+            },
+            {
+                "title": "Logic Mining Using Neural Networks",
+                "relevant": true
+            },
+            {
+                "title": "New probabilistic interest measures for association rules",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "big data analytics",
+        "results": [
+            {
+                "title": "A New Approach to Spreadsheet Analytics Management in Financial Markets",
+                "relevant": true
+            },
+            {
+                "title": "Data Mining Using High Performance Data Clouds: Experimental Studies Using Sector and Sphere",
+                "relevant": true
+            },
+            {
+                "title": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+                "relevant": false
+            },
+            {
+                "title": "Data Mining-based Materialized View and Index Selection in Data Warehouses",
+                "relevant": true
+            },
+            {
+                "title": "Human dynamics revealed through Web analytics",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "software engineering",
+        "results": [
+            {
+                "title": "A Process Algebra Software Engineering Environment",
+                "relevant": true
+            },
+            {
+                "title": "Software (Re-)Engineering with PSF",
+                "relevant": true
+            },
+            {
+                "title": "Software (Re-)Engineering with PSF III: an IDE for PSF",
+                "relevant": true
+            },
+            {
+                "title": "Spreadsheet Engineering: A Research Framework",
+                "relevant": true
+            },
+            {
+                "title": "Software (Re-)Engineering with PSF II: from architecture to implementation",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "compiler optimization",
+        "results": [
+            {
+                "title": "Optimizing Compiler for Engineering Problems",
+                "relevant": true
+            },
+            {
+                "title": "Improvements to the Psi-SSA representation",
+                "relevant": true
+            },
+            {
+                "title": "Conformal Computing: Algebraically connecting the hardware/software boundary using a uniform approach to high-performance computation for software and hardware applications",
+                "relevant": false
+            },
+            {
+                "title": "On the Complexity of Spill Everywhere under SSA Form",
+                "relevant": true
+            },
+            {
+                "title": "An Infrastructure to Functionally Test Designs Generated by Compilers Targeting FPGAs",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "query": "image classification",
+        "results": [
+            {
+                "title": "Human expert fusion for image classification",
+                "relevant": true
+            },
+            {
+                "title": "Fusion for Evaluation of Image Classification in Uncertain Environments",
+                "relevant": true
+            },
+            {
+                "title": "Evaluation for Uncertain Image Classification and Segmentation",
+                "relevant": true
+            },
+            {
+                "title": "Wavelet and Curvelet Moments for Image Classification: Application to Aggregate Mixture Grading",
+                "relevant": true
+            },
+            {
+                "title": "Belief decision support and reject for textured images characterization",
+                "relevant": false
+            }
+        ]
+    },
+    {
+        "query": "object detection",
+        "results": [
+            {
+                "title": "Spatio-activity based object detection",
+                "relevant": true
+            },
+            {
+                "title": "Learning View Generalization Functions",
+                "relevant": false
+            },
+            {
+                "title": "View Based Methods can achieve Bayes-Optimal 3D Recognition",
+                "relevant": false
+            },
+            {
+                "title": "Dynamic Clustering in Object-Oriented Databases: An Advocacy for Simplicity",
+                "relevant": false
+            },
+            {
+                "title": "Fusion for Evaluation of Image Classification in Uncertain Environments",
+                "relevant": false
+            }
+        ]
+    }
+]

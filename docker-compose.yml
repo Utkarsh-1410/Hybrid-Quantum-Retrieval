@@ -1,0 +1,49 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: hybrid_search
+      POSTGRES_USER: search
+      POSTGRES_PASSWORD: search
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/001-schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U search -d hybrid_search"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: ./backend
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+asyncpg://search:search@postgres:5432/hybrid_search}
+      BM25_INDEX_PATH: ${BM25_INDEX_PATH:-/data/faiss/bm25.json}
+      FAISS_INDEX_PATH: ${FAISS_INDEX_PATH:-/data/faiss/documents.index}
+    ports:
+      - "8000:8000"
+    volumes:
+      - faiss_data:/data/faiss
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+    environment:
+      VITE_API_BASE_URL: http://localhost:8000/api/v1
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:
+  faiss_data:
