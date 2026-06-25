@@ -610,17 +610,3 @@ For more detailed information on specific components:
 - **RAG Pipeline**: [docs/rag-pipeline.md](docs/rag-pipeline.md)
 - **arXiv Dataset**: [docs/arxiv-dataset.md](docs/arxiv-dataset.md)
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Specify contribution guidelines here]
-
-## Support
-
-For issues and questions:
-- Open an issue on GitHub
-- Check existing documentation in the `docs/` directory
-- Review troubleshooting section above
